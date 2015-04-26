@@ -1,0 +1,9 @@
+{
+    "path" : "D:/Users/David/Documents/R/House_Prices",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

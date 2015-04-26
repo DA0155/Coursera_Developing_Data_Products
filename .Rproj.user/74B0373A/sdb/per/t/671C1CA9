@@ -1,0 +1,17 @@
+{
+    "contents" : "library(shiny)\nlibrary(ggplot2)\n\n# Prepare lists for user input\ncol.names <- c(\"Street.Name\", \"Price\", \"Block.Size.m2\", \"Transaction.Type\", \"Purpose\"\n               ,\"Bed.Num\", \"Bath.Num\", \"Garage.Num\", \"Street.Type\", \"Contract.Year\")\n\nBedrm.Num <- c(\"1\",\"2\",\"3\",\"4\",\"5\")\nBlockSize <- c(\"200\", \"400\", \"600\", \"800\", \"1000\", \"1200\", \"1400\", \"1600\", \"1800\", \"2000\"\n               , \"2500\", \"3000\", \"3500\")\n\n\nshinyUI(navbarPage(\"House Price Toolbox\",\n  \n      tabPanel(\"Explore\",\n               sidebarLayout(\n                  sidebarPanel(\n      \n                    p(\"Explore the data by choosing X and Y axis to display.\"),\n                    selectInput('x', 'X', col.names, \"Bed.Num\"),\n                    selectInput('y', 'Y', col.names, \"Price\")\n                  ),\n                \n                  mainPanel(\n                    plotOutput('plot')\n                  )\n               )\n      ),\n      tabPanel(\"Predict\",\n               sidebarLayout(\n                 sidebarPanel(\n                   \n                   p(\"Select values and click the button to calculate the price prediction.\"),\n                   selectInput('b', 'Number of Bedrooms', Bedrm.Num, \"3\"),\n                   selectInput('l', \"Block Size (m2)\", BlockSize, \"600\"),\n                   actionButton('btnRunPredict', \"Predict Price\")\n  \n                 ),\n                 \n                 mainPanel(\n                   p(\"Price Prediction (AUD).\"),\n                   verbatimTextOutput('predict')\n                 )\n               )\n               \n      ),\n      tabPanel(\"About\",\n               mainPanel(\n                 includeMarkdown(\"include.md\")\n               )\n      )\n  )\n)",
+    "created" : 1430037745666.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3681887512",
+    "id" : "671C1CA9",
+    "lastKnownWriteTime" : 1430046030,
+    "path" : "D:/Users/David/Documents/R/House_Prices/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

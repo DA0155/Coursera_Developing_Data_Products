@@ -1,0 +1,17 @@
+{
+    "contents" : "# Data Preparation\n\nlibrary(stringr)\n\ndf.house <- read.delim(\"data/AllHomes_2614.txt\", header = TRUE, sep=\"\\t\", na.strings = \"NA\")\n\n\n\n\n\n# remove non alpha numerics from street\ndf.house$Address <- str_trim(gsub(\"[0-9,/,*]\", \"\", df.house$Address))\n\n# Convert dates\ndf.house$Contract.Date <- as.Date(df.house$Contract.Date , \"%d/%m/%Y\")\ndf.house$Transaction.Date <- as.Date(df.house$Transaction.Date , \"%d/%m/%Y\")\ndf.house$Advertise.Date <- as.Date(df.house$Advertise.Date , \"%d/%m/%Y\")\n\n# Add Street.Type and extract from Address\ndf.house$Street.Type <- \"NA\"\ndf.house$Street.Type[grep(\"Street\",df.house$Address)] <- \"Street\"\ndf.house$Street.Type[grep(\"St\",df.house$Address)] <- \"Street\"\ndf.house$Street.Type[grep(\"Close\",df.house$Address)] <- \"Close\"\ndf.house$Street.Type[grep(\"Drive\",df.house$Address)] <- \"Drive\"\ndf.house$Street.Type[grep(\"Place\",df.house$Address)] <- \"Place\"\ndf.house$Street.Type[grep(\"Circuit\",df.house$Address)] <- \"Circuit\"\ndf.house$Street.Type[grep(\"Cct\",df.house$Address)] <- \"Circuit\"\ndf.house$Street.Type[grep(\"Pl\",df.house$Address)] <- \"Place\"\n\n\n\n# Add Street.Type and extract from Address\ndf.house$Street.Name <- \"NA\"\n\n# Add Contract.Year and extract from Contract.Date\ndf.house$Contract.Year <- as.factor(format(df.house$Contract.Date, \"%Y\"))\n\n\n##########################################\ndf.house <- read.csv(\"data/HousePricesHawker.csv\", header = TRUE, na.strings = \"NA\")\n\ndf.house$Contract.Date <- as.Date(df.house$Contract.Date , \"%d/%m/%Y\")\ndf.house$Transaction.Date <- as.Date(df.house$Transaction.Date , \"%d/%m/%Y\")\ndf.house$Advertise.Date <- as.Date(df.house$Advertise.Date , \"%d/%m/%Y\")\ndf.house$Contract.Year <- as.factor(format(df.house$Contract.Date, \"%Y\"))\n\ndf.residential <- subset(df.house, grepl(\"*Residential*\", df.house$Purpose, ignore.case = TRUE))\n\n\nno.na.data <- na.omit(data[c(predictors, response)])\nmodel <- lm(formula=as.formula(paste(paste(response,'~', sep=''),\n                                     paste(predictors,collapse='+'), sep='')),\n            no.na.data)\nstep(model)\n\n\none_model <- lm(Price ~ Bed.Num + Block.Size.m2 + Contract.Year, data = df.house, na.action = na.omit)\nfind.model <- step(one_model, direction = \"both\")\n\n\npredict(mod, data.frame(train_x = c(1, 2, 3)))\n\npredict(one_model, data.frame(Bed.Num = c(4), Garage.Num = c(2)))\n\nboxplot(df.house$Price)\nboxplot(Price ~ Bed.Num, data = df.house)\n\nPrice.lm <- lm(Price ~ Bed.Num, data = df.house)\nabline(Price.lm)\n\ncoplot(Price ~ Bath.Num|Bed.Num, data=df.house)\n\n\nboxplot(Price ~ Bath.Num, data = df.house)\n\nboxplot(Price ~ Garage.Num, data = df.house)\n\nboxplot(Price ~ Ensuite.Num, data = df.house)\n\nboxplot(Price ~ Carport.Num, data = df.house)\n\n\n",
+    "created" : 1429703533467.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2355986093",
+    "id" : "435521E0",
+    "lastKnownWriteTime" : 1430045696,
+    "path" : "D:/Users/David/Documents/R/House_Prices/AnalysisCode.R",
+    "project_path" : "AnalysisCode.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

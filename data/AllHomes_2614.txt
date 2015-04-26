@@ -1,0 +1,1377 @@
+Contract.Date	Transaction.Date	Address	Price	Block.Size.m2	Transaction.Type	Purpose	Advertise.Date	Bed.Num	Bath.Num	Ensuite.Num	Garage.Num	Carport.Num
+15/02/2014	8/05/2014	5 Moroak Street	1210000	1173	Full transfer	Single residential dwelling	22/01/2014	5	4	NA	8	NA
+21/01/2014	NA	5 Marrakai Street *	1175000	1205	Full transfer	NA	19/11/2013	5	1	2	3	NA
+24/04/2014	21/05/2014	15 Marrakai Street	970000	1371	Full transfer	Single residential dwelling	10/03/2014	4	1	1	2	NA
+11/06/2014	NA	8 Goodparla Street *	909000	2191	Full transfer	NA	12/05/2014	5	1	1	2	NA
+15/02/2014	10/06/2014	24 Elsey Street	866000	1225	Full transfer	Single residential dwelling	20/01/2014	3	1	1	NA	NA
+14/03/2014	30/04/2014	44 Elsey Street	815000	1225	Full transfer	Single residential dwelling	7/11/2013	4	1	1	2	3
+3/04/2014	30/05/2014	18/1 Delamere Street	765000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/04/2014	NA	18/3 Delamere Street *	765000	18341	Full transfer	NA	12/03/2014	4	1	1	2	NA
+3/04/2014	8/05/2014	3 Anningie Place	760000	1131	Full transfer	Single residential dwelling	24/02/2014	5	1	2	2	NA
+27/02/2014	5/05/2014	24/1 Delamere Street	730000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/02/2014	NA	24/5 Delamere Street *	730000	NA	Full transfer	NA	31/01/2014	4	1	1	2	NA
+28/01/2014	7/05/2014	4/9 Jinka Street	480000	3362	Full transfer	Multiple unit dwelling	28/11/2013	3	1	1	NA	1
+29/04/2014	4/06/2014	53 Elkedra Close	470000	472	Full transfer	Medium density dwelling	11/03/2014	3	2	NA	1	NA
+18/06/2014	NA	5/42 Jinka Street *	460000	579	Full transfer	NA	20/05/2014	3	2	NA	2	NA
+20/06/2014	NA	1 Epenarra Close *	425000	515	Full transfer	NA	27/02/2014	3	1	NA	1	NA
+11/02/2014	9/04/2014	11 Epenarra Close	425000	297	Full transfer	Medium density dwelling	5/12/2013	3	2	NA	NA	1
+7/03/2014	14/04/2014	2/21 Jinka Street	393000	10221	Full transfer	Multiple unit dwelling	15/01/2014	2	1	NA	1	NA
+20/06/2014	NA	23/30 Springvale Drive *	286500	4017	Full transfer	NA	27/11/2013	3	1	1	NA	1
+12/06/2014	3/07/2014	21/8 Beetaloo Street	239000	5520	Full transfer	Multiple unit dwelling	30/04/2014	2	1	NA	NA	1
+1/04/2014	12/05/2014	12/28 Springvale Drive	236000	3934	Full transfer	Multiple unit dwelling	30/01/2014	2	1	0	1	NA
+7/04/2014	16/07/2014	9/121 Hawker Place	225000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+12/06/2014	NA	1/153 Murranji Street *	220000	5542	Full transfer	NA	3/10/2013	2	1	0	NA	1
+27/01/2014	21/03/2014	22/32 Springvale Drive	0	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/03/2014	17/06/2014	3 Kurundi Place	0	1093	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/06/2013	NA	16 Marrakai Street *	1525000	2852	Full transfer	NA	15/05/2013	6	3	1	3	NA
+4/07/2013	22/10/2013	6 Marrakai Street	980000	1803	Full transfer	Single residential dwelling	5/06/2013	4	1	1	NA	2
+16/11/2013	27/02/2014	28 Moroak Street	950000	1969	Full transfer	Single residential dwelling	15/10/2013	6	1	1	2	NA
+20/07/2013	5/09/2013	100 Springvale Drive	830000	2061	Full transfer	Single residential dwelling	14/06/2013	4	1	1	2	NA
+17/12/2013	13/02/2014	61 Ambalindum Street	812500	1122	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/11/2013	13/12/2013	66 Woolner Circuit	785000	1611	Full transfer	Single residential dwelling	13/09/2013	4	1	1	3	NA
+22/02/2013	9/05/2013	20 Kulgera Street	780000	914	Full transfer	Single residential dwelling	30/01/2013	4	1	1	NA	2
+14/11/2013	NA	58 Alroy Circuit *	770000	914	Full transfer	NA	14/10/2013	4	1	1	2	NA
+12/10/2013	17/12/2013	9 Mainoru Place	770000	1793	Full transfer	Single residential dwelling	20/09/2013	5	1	2	NA	NA
+11/07/2013	21/08/2013	29 Woolner Circuit	749500	1044	Full transfer	Single residential dwelling	4/05/2013	5	1	1	1	NA
+20/09/2013	7/02/2014	51 Ambalindum Street	700000	1660	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/12/2013	3/02/2014	19 Goodparla Street	680000	1152	Full transfer	Single residential dwelling	7/11/2013	4	2	1	2	NA
+5/04/2013	15/07/2013	34 Erldunda Circuit	650000	749	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/05/2013	2/07/2013	13 Erldunda Circuit	632500	893	Full transfer	Single residential dwelling	24/04/2013	4	1	1	2	NA
+3/05/2013	NA	104 Murranji Street *	615000	880	Full transfer	NA	29/01/2013	4	1	1	2	NA
+12/06/2013	15/08/2013	80 Springvale Drive	595000	1093	Full transfer	Single residential dwelling	8/04/2013	4	1	1	2	NA
+27/03/2013	14/05/2013	10 Murranji Street	585000	957	Full transfer	Single residential dwelling	19/02/2013	4	3	0	2	NA
+15/08/2013	NA	7/30 Jinka Street *	578000	7726	Full transfer	NA	31/07/2013	3	1	1	2	NA
+15/08/2013	24/10/2013	7/10 Jinka Street	578000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/11/2013	13/12/2013	2/74 Hawker Place	500000	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+1/10/2013	7/11/2013	116 Murranji Street	496000	949	Full transfer	Single residential dwelling	11/06/2013	4	1	1	NA	2
+13/08/2013	18/09/2013	19 Elkedra Close	480000	302	Full transfer	Medium density dwelling	30/07/2013	3	1	NA	1	NA
+17/04/2013	NA	13/188 Hawker Place *	475000	NA	Full transfer	NA	29/01/2013	3	1	1	2	NA
+17/04/2013	4/06/2013	13/170 Hawker Place	475000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/11/2013	17/12/2013	7/3 Jinka Street	465000	3531	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/12/2013	5/02/2014	44 Epenarra Close	460000	316	Full transfer	Medium density dwelling	20/11/2013	3	1	0	1	NA
+1/08/2013	29/08/2013	150 Murranji Street	435000	287	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+10/04/2013	12/07/2013	11 Gorrie Close	425000	302	Full transfer	Medium density dwelling	5/03/2013	3	1	NA	1	NA
+26/01/2013	12/04/2013	6 Elkedra Close	420000	301	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+26/11/2013	14/01/2014	156 Murranji Street	417000	484	Full transfer	Medium density dwelling	3/10/2013	2	2	NA	NA	2
+7/03/2013	21/05/2013	14/8 Walhallow Street	410000	8574	Full transfer	Multiple unit dwelling	25/01/2013	3	1	NA	NA	1
+29/10/2013	19/12/2013	20 Walhallow Street	406000	437	Full transfer	Medium density dwelling	2/05/2013	3	1	1	1	NA
+24/10/2013	NA	48 Epennara Close *	400000	394	Full transfer	NA	16/04/2013	3	2	0	1	NA
+24/10/2013	20/11/2013	48 Epenarra Close	400000	394	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/07/2013	13/09/2013	134 Murranji Street	395000	379	Full transfer	Medium density dwelling	26/06/2013	3	1	NA	1	NA
+28/08/2013	27/11/2013	128 Murranji Street	390000	309	Full transfer	Medium density dwelling	9/07/2013	3	1	NA	1	NA
+21/06/2013	25/07/2013	13/21 Jinka Street	380000	10221	Full transfer	Multiple unit dwelling	2/04/2013	3	1	NA	NA	1
+13/05/2013	5/07/2013	4/21 Jinka Street	373000	10221	Full transfer	Multiple unit dwelling	25/03/2013	2	1	NA	1	NA
+19/07/2013	10/09/2013	4/3 Jinka Street	371250	3531	Full transfer	Multiple unit dwelling	29/04/2013	2	1	NA	1	NA
+27/03/2013	29/05/2013	15/32 Springvale Drive	320000	4247	Full transfer	Multiple unit dwelling	28/02/2013	3	2	NA	NA	1
+24/04/2013	6/06/2013	2/30 Springvale Drive	315000	4017	Full transfer	Multiple unit dwelling	25/02/2013	3	1	1	NA	NA
+21/08/2013	20/10/2013	10/28 Springvale Drive	309750	3934	Full transfer	Multiple unit dwelling	6/06/2013	3	2	NA	1	NA
+18/04/2013	28/05/2013	2/153 Murranji Street	285000	5542	Full transfer	Multiple unit dwelling	6/03/2013	2	1	NA	NA	1
+29/08/2013	NA	20/30 Springvale Drive *	269000	4017	Full transfer	NA	25/07/2013	2	1	NA	1	NA
+29/04/2013	4/07/2013	12/30 Springvale Drive	265000	4017	Full transfer	Multiple unit dwelling	18/03/2013	2	1	NA	NA	1
+22/02/2013	NA	7/153 Murranji Street *	265000	0	Full transfer	NA	26/01/2013	2	1	0	NA	1
+14/11/2013	18/12/2013	11/153 Murranji Street	263000	5542	Full transfer	Multiple unit dwelling	11/09/2013	2	1	NA	NA	1
+25/06/2013	NA	21/153 Murranji Street *	262000	5542	Full transfer	NA	30/04/2013	2	1	NA	NA	1
+26/07/2013	3/09/2013	19/26 Springvale Drive	260000	4379	Full transfer	Multiple unit dwelling	10/12/2012	2	1	NA	NA	1
+30/05/2013	2/07/2013	13/32 Springvale Drive	251000	4247	Full transfer	Multiple unit dwelling	3/05/2013	2	1	NA	NA	1
+3/04/2013	4/06/2013	3/26 Springvale Drive	230100	4379	Full transfer	Multiple unit dwelling	24/10/2012	1	1	NA	NA	1
+3/06/2013	31/07/2013	14/26 Springvale Drive	217000	4379	Full transfer	Multiple unit dwelling	6/05/2013	1	1	NA	NA	1
+19/06/2013	5/08/2013	10/74 Hawker Place	158400	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+3/05/2013	28/11/2013	4/9 Jinka Street	125000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/02/2013	4/06/2013	16 Marrakai Street	0	2852	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/01/2013	16/12/2013	11/28 Springvale Drive	0	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/07/2013	26/11/2013	16/4 Beetaloo Street	0	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/11/2013	24/12/2013	4 Goodparla Street	0	1163	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/09/2013	18/11/2013	22 Goodparla Street	0	1114	Full transfer	Single residential dwelling...	NA	NA	NA	NA	NA	NA
+14/01/2013	3/07/2013	24/1 Delamere Street	0	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/10/2013	4/06/2014	5/42 Jinka Street	0	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/04/2013	4/09/2013	15 Murranji Street	0	933	Full transfer	Single residential dwelling...	NA	NA	NA	NA	NA	NA
+31/03/2013	29/10/2013	60 Erldunda Circuit	0	1176	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/07/2013	10/02/2014	24 Elsey Street	0	1225	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+17/07/2013	3/09/2013	25 Alroy Circuit	0	770	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/03/2013	2/07/2013	18 Moroak Street	0	1231	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/10/2013	10/02/2014	4/9 Jinka Street	0	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/07/2013	9/08/2013	8 Moroak Street	0	1035	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/11/2012	19/02/2013	11 Tanumbirini Street	915000	1416	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/05/2012	20/06/2012	6 Kurundi Place	897500	1486	Full transfer	Single residential dwelling	28/02/2012	5	1	2	3	NA
+29/06/2012	6/08/2012	5 Kurundi Place	895000	1127	Full transfer	Single residential dwelling	28/05/2012	4	1	2	2	NA
+22/09/2012	29/01/2013	16 Dungowan Street	823000	1412	Full transfer	Single residential dwelling	23/06/2012	3	1	NA	NA	2
+28/08/2012	NA	17 Erldunda Circuit *	800000	910	Full transfer	NA	15/08/2012	5	1	2	2	NA
+28/09/2012	28/11/2012	48 Woolner Circuit	785000	1091	Full transfer	Single residential dwelling	29/08/2012	4	1	1	NA	2
+19/10/2012	27/11/2012	16 Woolner Circuit	785000	1184	Full transfer	Single residential dwelling	29/09/2012	5	2	1	2	NA
+26/04/2012	3/06/2012	5 Andado Place	780000	1501	Full transfer	Single residential dwelling	19/03/2012	3	1	1	2	NA
+6/12/2012	21/03/2013	7 Tobermorey Place	735000	1112	Full transfer	Single residential dwelling	14/11/2012	4	1	1	4	1
+17/02/2012	10/08/2012	3 Andado Place	730000	1341	Full transfer	Single residential dwelling	6/10/2011	4	1	1	NA	2
+18/09/2012	22/11/2012	4/12 Andado Place	700000	4834	Full transfer	Multiple unit dwelling	15/08/2012	4	1	1	2	NA
+20/12/2012	15/04/2013	4 Moroak Street	680000	1260	Full transfer	Single residential dwelling	31/10/2012	4	1	1	NA	2
+30/04/2012	NA	50 Tanumbirini Street *	657500	1172	Full transfer	NA	12/01/2012	5	1	1	2	NA
+7/05/2012	14/06/2012	23 Tanumbirini Street	650000	885	Full transfer	Single residential dwelling	5/03/2012	5	1	2	2	NA
+25/10/2012	19/12/2012	10/1 Delamere Street	650000	18341	Full transfer	Multiple unit dwelling	4/10/2012	3	1	1	2	NA
+26/04/2012	27/06/2012	26 Kulgera Street	635000	825	Full transfer	Single residential dwelling	21/09/2011	5	2	1	NA	2
+13/07/2012	6/08/2012	14 Kulgera Street	630000	825	Full transfer	Single residential dwelling	3/05/2012	3	1	2	2	NA
+4/12/2012	7/02/2013	13/10 Jinka Street	585000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/12/2012	NA	20 Jinka Street *	585000	NA	Full transfer	NA	14/11/2012	3	1	1	2	NA
+11/07/2012	3/09/2012	100 Murranji Street	578000	919	Full transfer	Single residential dwelling	5/04/2012	4	1	1	2	NA
+24/01/2012	NA	30 Jinka Street *	525000	NA	Full transfer	NA	19/01/2012	3	1	1	2	NA
+12/01/2012	27/02/2012	7/2 Undoolya Street	440000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/02/2012	28/03/2012	4/27 Jinka Street	437500	6071	Full transfer	Multiple unit dwelling	10/11/2011	3	1	1	1	NA
+10/08/2012	19/09/2012	4/170 Hawker Place	429950	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/04/2012	3/06/2012	6/170 Hawker Place	420000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/05/2012	30/07/2012	5/170 Hawker Place	418000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/05/2012	30/07/2012	3/170 Hawker Place	418000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/02/2012	15/03/2012	10/8 Walhallow Street	412500	8574	Full transfer	Multiple unit dwelling	17/11/2011	3	1	NA	NA	1
+23/02/2012	21/03/2012	138 Murranji Street	409000	330	Full transfer	Medium density dwelling	31/01/2012	3	1	NA	1	NA
+12/10/2012	14/11/2012	6/27 Jinka Street	408000	6071	Full transfer	Multiple unit dwelling	10/08/2012	3	1	1	1	NA
+28/08/2012	9/10/2012	3/21 Jinka Street	405000	10221	Full transfer	Multiple unit dwelling	8/08/2012	2	1	NA	1	NA
+18/01/2012	22/02/2012	22 Epenarra Close	405000	297	Full transfer	Medium density dwelling	27/10/2011	3	1	NA	NA	1
+17/02/2012	24/04/2012	13/8 Walhallow Street	397000	8574	Full transfer	Multiple unit dwelling	9/02/2012	3	1	NA	NA	1
+20/11/2012	20/12/2012	16 Elkedra Close	395000	297	Full transfer	Medium density dwelling	9/10/2012	2	1	NA	NA	1
+5/06/2012	NA	10/27 Jinka Street *	395000	6071	Full transfer	NA	5/03/2012	3	1	1	1	NA
+20/06/2012	23/07/2012	22 Elkedra Close	391000	263	Full transfer	Medium density dwelling	26/04/2012	2	1	NA	1	NA
+17/12/2012	31/01/2013	19 Gorrie Close	378000	279	Full transfer	Medium density dwelling	4/09/2012	2	1	NA	1	NA
+24/02/2012	16/04/2012	4/8 Walhallow Street	375000	8574	Full transfer	Multiple unit dwelling	11/01/2012	2	1	NA	NA	NA
+10/10/2012	20/11/2012	7 Woolner Circuit	365574	279	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+2/05/2012	24/06/2012	26 Goodparla Street	325000	1059	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/01/2012	6/03/2012	19/8 Beetaloo Street	300000	5520	Full transfer	Multiple unit dwelling	16/11/2011	2	1	NA	NA	1
+2/10/2012	20/12/2012	1/4 Beetaloo Street	300000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/10/2012	NA	1A/4 Beetaloo Street *	300000	7773	Full transfer	NA	29/08/2012	2	1	NA	NA	1
+27/01/2012	6/03/2012	11/4 Beetaloo Street	290000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/07/2012	7/09/2012	23/26 Springvale Drive	270000	4379	Full transfer	Multiple unit dwelling	17/05/2012	2	1	NA	NA	1
+25/06/2012	5/08/2013	21/153 Murranji Street	262000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/03/2012	7/05/2012	13/121 Hawker Place	260000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+20/09/2012	NA	22/30 Springvale Drive *	250000	4017	Full transfer	NA	29/05/2012	2	1	NA	1	1
+12/10/2012	22/11/2012	4/28 Springvale Drive	250000	3934	Full transfer	Multiple unit dwelling	11/09/2012	2	1	NA	1	NA
+8/10/2012	21/11/2012	21/1 Delamere Street	0	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/09/2012	22/01/2013	90 Erldunda Circuit	0	1592	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/02/2012	1/03/2012	4 Dungowan Street	0	748	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/12/2012	19/07/2013	19 Elkedra Close	0	302	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+2/05/2012	4/01/2013	28 Mataranka Street	0	1005	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/08/2012	10/10/2012	89 Erldunda Circuit	0	978	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/09/2012	7/12/2012	88 Springvale Drive	0	1379	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+17/08/2012	30/09/2012	8 Gorrie Close	0	286	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+19/11/2012	27/02/2013	116 Murranji Street	0	949	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/07/2012	27/08/2012	4 Dungowan Street	0	748	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/01/2012	2/05/2013	32 Marrakai Street	0	1649	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/10/2012	4/02/2013	16 Mainoru Place	0	1514	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/10/2012	20/11/2012	14/8 Walhallow Street	0	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/03/2011	8/04/2011	13 Kurundi Place	955000	1442	Full transfer	Single residential dwelling	3/06/2010	4	2	1	2	NA
+7/04/2011	31/05/2011	32 Elsey Street	900000	1141	Full transfer	Single residential dwelling	23/11/2010	5	1	1	2	NA
+1/10/2011	5/12/2011	11 Marrakai Street	875000	1225	Full transfer	Single residential dwelling	8/09/2011	4	1	1	4	NA
+8/09/2011	15/05/2012	30 Mataranka Street	871000	952	Full transfer	Single residential dwelling	17/08/2011	4	1	1	4	NA
+17/09/2011	30/01/2012	17 Andado Place	860000	1931	Full transfer	Single residential dwelling	26/08/2011	4	1	1	2	NA
+11/02/2011	13/04/2011	64 Alroy Circuit	850000	792	Full transfer	Single residential dwelling	4/02/2011	4	1	2	2	NA
+12/04/2011	3/06/2011	39 Tanumbirini Street	830000	892	Full transfer	Single residential dwelling	24/01/2011	4	1	1	2	NA
+28/10/2011	5/12/2011	24 Ambalindum Street	820000	1189	Full transfer	Single residential dwelling	27/09/2011	5	1	2	NA	NA
+15/10/2011	13/12/2011	25 Alexandria Street	795000	1233	Full transfer	Single residential dwelling	23/09/2011	4	1	1	2	2
+29/10/2011	23/01/2012	9 Tanumbirini Street	770000	1230	Full transfer	Single residential dwelling	4/10/2011	5	2	1	NA	2
+20/06/2011	14/08/2011	31 Ambalindum Street	750000	1326	Full transfer	Single residential dwelling	16/06/2011	4	1	1	2	NA
+24/09/2011	1/11/2011	52 Woolner Circuit	715000	1212	Full transfer	Single residential dwelling	1/09/2011	4	1	1	NA	2
+17/10/2011	12/04/2012	25/1 Delamere Street	700000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/12/2011	30/01/2012	1 Tobermorey Place	698000	1098	Full transfer	Single residential dwelling	8/11/2011	4	1	1	3	NA
+27/05/2011	1/08/2011	62 Alroy Circuit	685000	792	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+3/05/2011	4/07/2011	13 Alroy Circuit	670000	834	Full transfer	Single residential dwelling	17/03/2011	4	1	1	2	NA
+9/09/2011	1/11/2011	2/13 Andado Place	650000	2189	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/01/2011	28/02/2011	1/8 Elsey Street	650000	1614	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/09/2011	NA	13 Andado Place *	650000	1204	Full transfer	NA	13/07/2011	4	1	1	2	NA
+22/07/2011	12/10/2011	29/1 Delamere Street	640000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/11/2011	5/04/2012	16/1 Delamere Street	620000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/08/2011	23/09/2011	9 Alroy Circuit	610000	925	Full transfer	Single residential dwelling	14/06/2011	4	1	1	2	NA
+17/03/2011	10/05/2011	4/1 Delamere Street	600000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/12/2011	21/02/2012	8 Marqua Place	485000	464	Full transfer	Medium density dwelling	13/12/2011	3	1	1	2	NA
+15/11/2011	20/12/2011	2/42 Jinka Street	475000	6092	Full transfer	Multiple unit dwelling	5/10/2011	3	1	1	2	NA
+28/10/2011	NA	2 Gorrie Close *	470000	596	Full transfer	NA	27/05/2011	3	1	1	1	NA
+21/02/2011	5/04/2011	9 Marqua Place	460000	386	Full transfer	Medium density dwelling	20/01/2011	3	1	1	2	NA
+26/07/2011	19/09/2011	136 Murranji Street	453000	399	Full transfer	Medium density dwelling	21/06/2011	3	1	NA	1	1
+28/03/2011	10/05/2011	38 Epenarra Close	448000	316	Full transfer	Medium density dwelling	10/03/2011	3	1	0	1	NA
+21/12/2011	5/03/2012	3/1 Limbunya Street	442000	2159	Full transfer	Multiple unit dwelling	10/11/2011	3	1	1	1	NA
+28/01/2011	5/12/2011	7/41 Jinka Street	441000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/10/2011	NA	7/41 Jinka Street *	441000	10583	Full transfer	NA	20/10/2011	3	1	1	NA	2
+20/05/2011	15/11/2011	148 Murranji Street	440000	300	Full transfer	Medium density dwelling	4/03/2011	3	1	NA	1	NA
+1/09/2011	24/10/2011	7/8 Walhallow Street	435000	8574	Full transfer	Multiple unit dwelling	10/08/2011	3	1	NA	NA	1
+23/05/2011	20/07/2011	3/7 Limbunya Street	432000	2075	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/05/2011	NA	4/7 Limbunya Street *	432000	2075	Full transfer	NA	28/04/2011	3	1	1	1	NA
+1/04/2011	10/05/2011	13/41 Jinka Street	425000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/05/2011	9/06/2011	17 Elkedra Close	420000	302	Full transfer	Medium density dwelling	3/03/2011	3	1	NA	1	NA
+21/09/2011	10/11/2011	3/27 Jinka Street	418000	6071	Full transfer	Multiple unit dwelling	14/04/2011	3	1	1	1	NA
+8/06/2011	2/08/2011	24 Epenarra Close	415000	334	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+7/09/2011	8/11/2011	39 Elkedra Close	410000	311	Full transfer	Medium density dwelling	12/07/2011	3	1	NA	1	NA
+26/11/2011	NA	1/41 Jinka Street *	410000	10583	Full transfer	NA	12/08/2011	3	1	1	NA	1
+20/09/2011	20/10/2011	11/8 Walhallow Street	400000	8574	Full transfer	Multiple unit dwelling	28/06/2011	3	1	NA	NA	1
+2/11/2011	12/12/2011	23 Elkedra Close	392500	297	Full transfer	Medium density dwelling	12/08/2011	3	1	NA	NA	2
+21/02/2011	7/04/2011	2/21 Jinka Street	391000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/04/2011	23/05/2011	17/21 Jinka Street	388000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/07/2011	5/09/2011	25 Elkedra Close	350000	353	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+23/12/2011	23/03/2012	21/28 Springvale Drive	325000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/04/2011	24/05/2011	10/30 Springvale Drive	323000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/04/2011	NA	10/30 Springvale Drive *	323000	4017	Full transfer	NA	24/03/2011	3	1	1	NA	1
+18/08/2011	28/09/2011	17/30 Springvale Drive	320000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/02/2011	12/04/2011	31/4 Beetaloo Street	315000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/11/2011	11/01/2012	18/32 Springvale Drive	305000	4247	Full transfer	Multiple unit dwelling	12/10/2011	3	1	1	NA	1
+9/09/2011	5/12/2011	5/3 Bonrook Street	300000	3862	Full transfer	Multiple unit dwelling	28/06/2011	2	1	NA	NA	1
+6/05/2011	22/06/2011	19/30 Springvale Drive	292500	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/02/2011	NA	10/8 Beetaloo Cct *	290000	5520	Full transfer	NA	3/02/2011	2	NA	NA	NA	NA
+6/06/2011	22/08/2011	17/153 Murranji Street	289950	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/06/2011	18/07/2011	27/4 Beetaloo Street	288000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/06/2011	NA	3D/4 Beetaloo St *	288000	NA	Full transfer	NA	28/02/2011	2	1	NA	NA	1
+28/02/2011	24/05/2011	10/8 Beetaloo Street	277500	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/09/2011	15/11/2011	14/32 Springvale Drive	275000	4247	Full transfer	Multiple unit dwelling	14/06/2011	2	1	NA	NA	1
+14/01/2011	NA	10/3 Bonrook Street *	275000	3862	Full transfer	NA	29/10/2010	2	1	NA	NA	1
+13/01/2011	17/02/2011	10/3 Bonrook Street	273000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/07/2011	29/08/2011	12/32 Springvale Drive	269500	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/06/2011	15/04/2013	6/1 Delamere Street	0	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/05/2011	27/08/2012	16 Dungowan Street	0	1412	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/10/2011	19/12/2011	53 Woolner Circuit	0	1881	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+31/10/2011	9/01/2013	1/32 Springvale Drive	0	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/09/2011	22/12/2011	29 Gorrie Close	0	357	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+19/10/2011	5/12/2011	56 Alroy Circuit	0	914	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+6/11/2011	23/04/2012	16 Marrakai Street	0	2852	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/12/2011	19/01/2012	63 Ambalindum Street	0	1227	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/06/2011	13/01/2012	4/41 Jinka Street	0	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/09/2011	18/01/2012	99 Erldunda Circuit	0	745	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/11/2011	11/01/2012	29 Alroy Circuit	0	804	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/01/2011	3/05/2011	26 Mataranka Street	NA	982	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/03/2011	4/04/2011	7/28 Springvale Drive	NA	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/02/2011	20/07/2011	13 Goodparla Street	NA	1295	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/05/2011	15/08/2011	12 Kulgera Street	NA	780	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/05/2011	11/07/2011	2/13 Andado Place	NA	2189	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/03/2011	21/09/2011	4/9 Jinka Street	NA	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/04/2011	29/08/2011	30 Mataranka Street	NA	952	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/05/2011	3/06/2011	5/8 Bonrook Street	NA	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/02/2010	11/05/2010	11 Dungowan Street	1113000	1777	Full transfer	Single residential dwelling	23/03/2010	4	1	1	NA	2
+20/11/2010	1/03/2011	22 Marrakai Street	1105000	3035	Full transfer	Single residential dwelling	13/10/2010	5	1	2	2	NA
+20/10/2010	28/01/2011	30 Marrakai Street	1050000	1850	Full transfer	Single residential dwelling	20/09/2010	5	2	2	2	NA
+20/10/2010	8/02/2011	42 Marrakai Street	1020000	1547	Full transfer	Single residential dwelling	13/10/2010	5	2	1	2	NA
+29/10/2010	2/03/2011	19 Marrakai Street	840000	1296	Full transfer	Single residential dwelling	12/08/2010	4	1	1	NA	2
+29/03/2010	14/05/2010	5 Kurundi Place	825000	1127	Full transfer	Single residential dwelling	25/02/2010	4	1	2	2	NA
+21/08/2010	27/10/2010	34 Ambalindum Street	822500	1161	Full transfer	Single residential dwelling	29/07/2010	4	2	1	1	2
+30/07/2010	20/09/2010	23 Goodparla Street	820000	1178	Full transfer	Single residential dwelling	20/04/2010	4	2	1	NA	2
+25/05/2010	30/06/2010	21 Kulgera Street	810000	859	Full transfer	Single residential dwelling	20/04/2010	4	1	2	2	NA
+12/08/2010	21/02/2011	21 Mainoru Place	810000	2089	Full transfer	Single residential dwelling	21/07/2010	4	1	1	2	NA
+6/08/2010	17/09/2010	2 Andado Place	770000	1217	Full transfer	Single residential dwelling	16/04/2010	5	1	1	3	NA
+29/05/2010	20/07/2010	11 Alexandria Street	765000	1010	Full transfer	Single residential dwelling	5/05/2010	5	1	1	1	2
+18/11/2010	2/02/2011	2 Mataranka Street	739500	819	Full transfer	Single residential dwelling	19/10/2010	4	1	1	NA	1
+21/09/2010	8/11/2010	5 Anningie Place	738000	1170	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/04/2010	21/05/2010	39 Alexandria Street	733000	1284	Full transfer	Single residential dwelling	18/03/2010	4	1	2	2	1
+12/03/2010	16/04/2010	23 Elsey Street	680000	1051	Full transfer	Single residential dwelling	25/01/2010	4	1	1	2	NA
+3/04/2010	2/06/2010	5 Mataranka Street	665000	980	Full transfer	Single residential dwelling	10/03/2010	4	2	1	2	NA
+13/12/2010	29/04/2011	52 Woolner Circuit	650000	1212	Full transfer	Single residential dwelling	18/11/2010	4	1	1	2	NA
+26/06/2010	11/08/2010	24 Alroy Circuit	632000	830	Full transfer	Single residential dwelling	31/05/2010	4	1	1	2	NA
+1/04/2010	25/05/2010	56 Alroy Circuit	629000	914	Full transfer	Single residential dwelling	24/03/2010	3	2	NA	1	NA
+23/12/2010	21/02/2011	1 Elsey Street	625000	920	Full transfer	Single residential dwelling	8/12/2010	4	1	1	1	NA
+10/06/2010	27/07/2010	30 Erldunda Circuit	610000	743	Full transfer	Single residential dwelling	21/04/2010	3	1	1	NA	2
+3/08/2010	16/09/2010	1 Alroy Circuit	600000	878	Full transfer	Single residential dwelling	13/07/2010	4	1	1	2	NA
+3/03/2010	22/06/2010	24 Kulgera Street	550000	914	Full transfer	Single residential dwelling	5/02/2010	3	1	1	NA	2
+3/06/2010	15/09/2010	2 Gorrie Close	485000	597	Full transfer	Medium density dwelling	26/05/2010	3	1	1	1	NA
+10/02/2010	21/04/2010	13 Elkedra Close	482000	283	Full transfer	Medium density dwelling	7/01/2010	3	1	1	1	1
+23/03/2010	NA	"U20, Hawker Place *"	455000	NA	Full transfer	NA	9/07/2009	3	1	1	2	NA
+19/10/2010	24/11/2010	19/170 Hawker Place	455000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/03/2010	19/01/2011	20/170 Hawker Place	455000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/04/2010	NA	"U1, Hawker Place *"	445000	NA	Full transfer	NA	30/10/2009	3	1	1	2	NA
+25/08/2010	16/12/2010	7/9 Jinka Street	445000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/09/2010	19/01/2011	3 Marqua Place	445000	390	Full transfer	Medium density dwelling	2/09/2010	3	1	1	2	NA
+8/04/2010	15/11/2010	1/170 Hawker Place	445000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/08/2010	16/09/2010	31 Gorrie Close	445000	357	Full transfer	Medium density dwelling	7/07/2010	3	1	NA	1	NA
+8/05/2010	25/06/2010	9/27 Jinka Street	443000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/08/2010	3/09/2010	8 Gorrie Close	436000	286	Full transfer	Medium density dwelling	29/06/2010	3	1	NA	1	NA
+2/12/2010	12/04/2011	26 Epenarra Close	430000	334	Full transfer	Medium density dwelling	25/11/2010	2	1	NA	NA	NA
+9/07/2010	NA	3/27 Jinka Street *	430000	6071	Full transfer	NA	25/05/2010	2	1	1	1	NA
+11/08/2010	23/09/2010	12/21 Jinka Street	426200	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/01/2010	11/03/2010	9/8 Bonrook Street	415000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/03/2010	30/11/2010	15/170 Hawker Place	410000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/03/2010	22/04/2010	31 Elkedra Close	398000	353	Full transfer	Medium density dwelling	24/02/2010	3	1	NA	NA	2
+12/01/2010	29/03/2010	10/21 Jinka Street	395000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/01/2010	18/02/2010	7/8 Walhallow Street	382000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/05/2010	25/06/2010	5/21 Jinka Street	380000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/09/2010	27/10/2010	7/30 Springvale Drive	330000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/08/2010	NA	3/8 Beetaloo Street *	310000	5520	Full transfer	NA	21/06/2010	2	1	NA	1	NA
+3/03/2010	25/05/2010	17/30 Springvale Drive	310000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/12/2010	16/02/2011	9/28 Springvale Drive	308000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/07/2010	3/09/2010	19/8 Beetaloo Street	299500	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/08/2010	NA	19/8 Beetaloo Street *	299500	5520	Full transfer	NA	29/04/2010	2	1	NA	NA	1
+8/10/2010	12/01/2011	12/3 Bonrook Street	291000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/08/2010	15/10/2010	2/26 Springvale Drive	288000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/09/2010	NA	1B/4 Beetaloo Street *	281000	7773	Full transfer	NA	9/08/2010	2	1	NA	1	NA
+9/09/2010	12/10/2010	9/4 Beetaloo Street	281000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/06/2010	NA	2C/4 Beetaloo Street *	275000	7741	Full transfer	NA	26/03/2010	2	1	NA	NA	NA
+17/06/2010	21/07/2010	18/4 Beetaloo Street	275000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/10/2010	19/11/2010	22/4 Beetaloo Street	267000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/07/2010	3/09/2010	9/26 Springvale Drive	267000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/10/2010	NA	6C/4 Beetaloo Street *	267000	7773	Full transfer	NA	24/08/2010	2	1	NA	1	NA
+23/04/2010	11/06/2010	9/153 Murranji Street	245000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/11/2010	16/12/2010	13/26 Springvale Drive	220000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/06/2010	30/07/2010	14/26 Springvale Drive	208500	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/09/2010	24/11/2010	45 Elkedra Close	131667	314	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+6/10/2010	28/11/2011	24/30 Springvale Drive	0	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/07/2010	10/09/2010	8/21 Jinka Street	NA	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/11/2010	19/01/2011	1 Elsey Street	NA	920	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/09/2010	4/03/2011	12/32 Springvale Drive	NA	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/05/2010	20/09/2010	9/4 Beetaloo Street	NA	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/03/2010	20/06/2011	19/1 Delamere Street	NA	18341	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/07/2010	22/09/2010	15/41 Jinka Street	NA	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/09/2010	15/11/2010	26 Murranji Street	NA	1373	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/09/2010	19/11/2010	13 Moroak Street	NA	1087	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/09/2010	4/03/2011	14/32 Springvale Drive	NA	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/07/2009	6/08/2009	108 Hawker Place	1380000	717	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+9/06/2009	NA	Hawker Tennis Centre *	1200000	12699	Full transfer	NA	19/06/2008	NA	NA	NA	NA	NA
+15/06/2009	28/09/2009	19 Walhallow Street	1190000	12699	Full transfer	Tennis court	NA	NA	NA	NA	NA	NA
+19/12/2009	6/05/2010	14 Elsey Street	1000000	1843	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/11/2009	19/01/2010	38 Ambalindum Street	890000	1024	Full transfer	Single residential dwelling	28/10/2009	5	1	2	2	NA
+31/10/2009	7/02/2010	5 Elsey Street	840000	1403	Full transfer	Single residential dwelling	9/10/2009	4	1	1	2	NA
+21/02/2009	14/04/2009	1/14 Andado Place	825000	1808	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/11/2009	10/02/2010	5 Ambalindum Street	825000	1615	Full transfer	Single residential dwelling	28/10/2009	4	2	1	2	NA
+2/10/2009	3/05/2010	23 Ambalindum Street	825000	1212	Full transfer	Single residential dwelling	7/09/2009	5	1	1	NA	2
+27/02/2009	NA	1/14 Andado Place *	825000	958	Full transfer	NA	13/11/2008	4	1	1	2	NA
+25/07/2009	28/09/2009	19 Marrakai Street	811750	1296	Full transfer	Single residential dwelling	2/07/2009	4	1	1	NA	2
+18/07/2009	3/09/2009	11 Goodparla Street	800000	1317	Full transfer	Single residential dwelling	25/06/2009	4	2	1	3	NA
+27/03/2009	20/05/2009	57 Woolner Circuit	800000	2122	Full transfer	Single residential dwelling	7/11/2008	4	1	1	2	1
+5/06/2009	5/08/2009	59 Erldunda Circuit	770000	952	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+3/04/2009	10/11/2009	5 Goodparla Street	755000	1047	Full transfer	Single residential dwelling	5/03/2009	5	2	2	NA	2
+25/07/2009	26/10/2009	79 Erldunda Circuit	715000	1215	Full transfer	Single residential dwelling	2/07/2009	4	2	1	3	NA
+14/08/2009	8/10/2009	55 Erldunda Circuit	676000	952	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+6/10/2009	25/01/2010	6 Kyabra Place	650000	945	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/03/2009	28/04/2009	31 Ambalindum Street	647000	1326	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/09/2009	6/11/2009	14 Kulgera Street	645000	825	Full transfer	Single residential dwelling	2/09/2009	3	1	2	2	NA
+10/06/2009	25/09/2009	5 Anningie Place	640000	1170	Full transfer	Single residential dwelling	28/05/2009	4	1	1	2	1
+15/10/2009	NA	22 Woolner Circuit *	625000	1256	Full transfer	NA	24/09/2009	4	1	1	2	NA
+11/11/2009	8/02/2010	12 Alroy Circuit	610000	766	Full transfer	Single residential dwelling	20/10/2009	4	1	1	1	NA
+3/02/2009	10/03/2009	45 Tanumbirini Street	605000	889	Full transfer	Single residential dwelling	28/01/2009	4	2	1	3	NA
+4/08/2009	23/11/2009	7 Elsey Street	580500	1010	Full transfer	Single residential dwelling	7/07/2009	3	1	1	NA	1
+24/10/2009	13/01/2010	6 Tobermorey Place	580000	917	Full transfer	Single residential dwelling	23/09/2009	4	1	1	2	NA
+24/02/2009	24/03/2009	66 Springvale Drive	510000	1086	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/10/2009	6/12/2010	11/170 Hawker Place	470000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/10/2009	19/01/2011	14/170 Hawker Place	450000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/12/2009	18/02/2010	19 Elkedra Close	450000	302	Full transfer	Medium density dwelling	22/10/2009	3	1	NA	1	NA
+30/11/2009	7/02/2010	148 Murranji Street	450000	300	Full transfer	Medium density dwelling	8/10/2009	3	1	NA	1	NA
+22/12/2009	23/11/2010	16/170 Hawker Place	445000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/12/2009	17/11/2010	2/170 Hawker Place	445000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/09/2009	10/11/2010	13/170 Hawker Place	440000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/02/2009	28/04/2009	4/9 Jinka Street	439000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/10/2009	22/11/2010	18/170 Hawker Place	430000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/11/2009	17/11/2010	9/170 Hawker Place	425000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/10/2009	26/11/2009	7 Marqua Place	422500	402	Full transfer	Medium density dwelling	2/10/2009	3	1	1	2	NA
+7/12/2009	7/02/2010	27 Elkedra Close	420000	353	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+22/12/2009	24/11/2010	17/170 Hawker Place	420000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/10/2009	7/12/2010	10/170 Hawker Place	415000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/05/2009	5/08/2009	2/9 Jinka Street	410000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/11/2009	22/12/2010	12/170 Hawker Place	410000	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/07/2009	24/08/2009	9 Elkedra Close	405000	279	Full transfer	Medium density dwelling	12/06/2009	3	1	NA	1	NA
+22/05/2009	13/07/2009	4/1 Limbunya Street	405000	2159	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/12/2009	21/02/2010	122 Murranji Street	402000	415	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+14/09/2009	28/01/2010	36 Epenarra Close	400000	302	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+18/02/2009	20/03/2009	53 Elkedra Close	394500	472	Full transfer	Medium density dwelling	7/01/2009	3	1	1	1	NA
+3/09/2009	10/02/2010	20 Epenarra Close	387500	297	Full transfer	Medium density dwelling	12/08/2009	3	1	0	NA	1
+5/05/2009	NA	2/27 Jinka Street *	387000	6071	Full transfer	NA	24/03/2009	NA	NA	NA	NA	NA
+21/04/2009	31/05/2009	2/27 Jinka Street	387000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/12/2009	8/02/2010	12 Gorrie Close	385500	277	Full transfer	Medium density dwelling	3/12/2009	3	1	NA	1	NA
+13/01/2009	12/02/2009	4 Epenarra Close	380000	302	Full transfer	Medium density dwelling	30/10/2008	3	1	1	1	NA
+29/09/2009	16/11/2009	6/8 Walhallow Street	375000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/05/2009	NA	8/8 Walhallow Street *	365000	8574	Full transfer	NA	16/04/2009	3	1	0	NA	1
+3/06/2009	NA	5/8 Walhallow Street *	365000	8574	Full transfer	NA	12/05/2009	2	1	0	NA	1
+2/06/2009	3/08/2009	5/8 Walhallow Street	365000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/02/2009	18/03/2009	30 Elkedra Close	359000	548	Full transfer	Medium density dwelling	21/01/2009	2	1	0	1	NA
+20/11/2009	28/01/2010	13 Gorrie Close	356500	279	Full transfer	Medium density dwelling	9/10/2009	2	1	NA	1	NA
+27/10/2009	NA	Hawker Pl *	350000	NA	Full transfer	NA	9/07/2009	1	1	NA	1	NA
+16/02/2009	23/03/2009	4/8 Walhallow Street	330000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/08/2009	22/10/2009	23/32 Springvale Drive	290000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/09/2009	NA	23/32 Springvale Drive *	290000	4247	Full transfer	NA	25/06/2009	3	1	1	NA	1
+22/10/2009	30/11/2009	6/32 Springvale Drive	278000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/11/2009	NA	6/32 Spingvale Drive *	278000	4247	Full transfer	NA	15/09/2009	2	1	NA	NA	NA
+9/02/2009	NA	9/30 Springvale Drive *	276000	NA	Full transfer	NA	12/11/2008	3	1	1	NA	1
+5/02/2009	8/04/2009	9/30 Springvale Drive	276000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/04/2009	4/06/2009	24/28 Springvale Drive	270000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/09/2009	NA	17/26 Springvale Drive *	265000	4379	Full transfer	NA	18/08/2009	2	1	NA	NA	1
+21/09/2009	18/11/2009	17/26 Springvale Drive	265000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/01/2009	3/03/2009	2/153 Murranji Street	250000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/08/2009	11/09/2009	4/27 Jinka Street	135000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/10/2009	1/11/2011	16/30 Springvale Drive	2000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/05/2009	10/06/2009	9 Marqua Place	NA	386	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+23/05/2009	9/10/2009	49 Tanumbirini Street	NA	1007	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/08/2009	12/08/2010	11 Tanumbirini Street	NA	1416	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/10/2009	22/11/2010	8/170 Hawker Place	NA	2538	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/03/2009	5/05/2009	40 Woolner Circuit	NA	1196	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/12/2009	15/02/2010	20 Murranji Street	NA	1177	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/01/2009	18/03/2009	2/8 Bonrook Street	NA	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/05/2009	7/06/2010	16 Florina Place	NA	1860	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/07/2009	9/09/2009	24 Tanumbirini Street	NA	1533	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/02/2009	1/06/2009	22 Woolner Circuit	NA	1256	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/09/2009	11/02/2010	5 Alexandria Street	NA	955	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+3/12/2009	28/01/2010	16 Kulgera Street	NA	825	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/10/2009	25/01/2010	2/14 Andado Place	NA	1808	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/07/2009	11/03/2010	13 Goodparla Street	NA	1295	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/05/2009	18/06/2009	16 Dungowan Street	NA	1412	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/02/2009	17/04/2009	15 Kurundi Place	NA	2034	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/09/2008	27/10/2008	4 Marrakai Street	855000	2279	Full transfer	Single residential dwelling	16/07/2008	4	3	NA	NA	2
+13/05/2008	13/06/2008	15 Marrakai Street	820000	1371	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/03/2008	20/05/2008	19 Elsey Street	782000	1004	Full transfer	Single residential dwelling	24/01/2008	4	1	1	2	NA
+24/05/2008	21/08/2008	7 Kurundi Place	765000	1910	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/02/2008	30/04/2008	34 Moroak Street	750000	1068	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/02/2008	NA	34 Moroak Street *	750000	NA	Full transfer	NA	6/02/2008	5	1	2	2	NA
+4/10/2008	5/02/2009	6 Florina Place	720000	1306	Full transfer	Single residential dwelling	4/09/2008	4	1	1	2	NA
+17/09/2008	15/12/2008	8 Ambalindum Street	720000	1348	Full transfer	Single residential dwelling	27/08/2008	5	2	1	3	NA
+22/11/2008	16/03/2009	21 Goodparla Street	717000	1089	Full transfer	Single residential dwelling	30/10/2008	5	1	2	2	NA
+1/10/2008	22/12/2008	34 Kulgera Street	700000	908	Full transfer	Single residential dwelling	4/09/2008	5	2	1	2	NA
+11/07/2008	9/09/2008	18 Tanumbirini Street	700000	1564	Full transfer	Single residential dwelling	27/02/2008	5	1	1	1	3
+16/05/2008	2/07/2008	75 Erldunda Circuit	695000	1020	Full transfer	Single residential dwelling	7/06/2008	4	2	1	3	NA
+23/02/2008	29/04/2008	12 Dungowan Street	662000	970	Full transfer	Single residential dwelling	31/03/2008	5	1	1	NA	1
+11/07/2008	14/08/2008	8 Kulgera Street	660000	1231	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/02/2008	3/07/2008	19 Moroak Street	652000	1147	Full transfer	Single residential dwelling	31/03/2008	4	1	2	NA	2
+2/04/2008	27/06/2008	18 Woolner Circuit	640000	1184	Full transfer	Single residential dwelling	6/02/2008	4	2	1	2	NA
+3/11/2008	30/01/2009	31 Tanumbirini Street	630000	1059	Full transfer	Single residential dwelling	16/10/2008	4	1	1	2	NA
+21/01/2008	NA	1 Tobermorey Place *	628000	1098	Full transfer	NA	8/12/2007	4	1	1	2	1
+12/09/2008	22/10/2008	20 Kulgera Street	627000	914	Full transfer	Single residential dwelling	29/08/2008	4	1	1	NA	2
+16/10/2008	10/12/2008	4 Woolner Circuit	625000	1051	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/10/2008	2/02/2009	23 Alexandria Street	623500	1102	Full transfer	Single residential dwelling	18/09/2008	4	1	1	2	NA
+12/10/2008	10/03/2009	4 Alroy Circuit	575000	869	Full transfer	Single residential dwelling	16/10/2008	4	1	2	2	NA
+6/02/2008	NA	94 Erldunda Circuit *	550000	1312	Full transfer	NA	9/01/2008	4	1	1	NA	2
+6/02/2008	26/03/2008	94 Erldunda Circuit	550000	1312	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/02/2008	14/05/2008	1 Murranji Street	542000	1029	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/06/2008	7/10/2008	17 Elsey Street	540000	850	Full transfer	Single residential dwelling	20/05/2008	3	1	1	2	NA
+19/11/2008	4/01/2009	37 Tanumbirini Street	518000	861	Full transfer	Single residential dwelling	30/10/2008	4	1	1	2	NA
+9/12/2008	24/03/2009	70 Springvale Drive	490000	1176	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/02/2008	13/06/2008	10/10 Jinka Street	490000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/02/2008	NA	34 Jinka Street *	490000	610	Full transfer	NA	20/02/2008	3	1	1	2	NA
+2/04/2008	3/06/2008	11 Kulgera Street	482500	859	Full transfer	Single residential dwelling	31/03/2008	3	1	1	NA	2
+9/02/2008	27/03/2008	10/42 Jinka Street	460000	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/11/2008	17/12/2008	4 Dungowan Street	454000	748	Full transfer	Single residential dwelling	16/10/2008	4	1	1	NA	2
+21/06/2008	13/08/2008	2 Murranji Street	450000	1047	Full transfer	Single residential dwelling	9/09/2007	3	2	0	2	NA
+19/03/2008	29/04/2008	6/42 Jinka Street	450000	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/03/2008	NA	6/42 Jinka Street *	450000	6092	Full transfer	NA	6/02/2008	3	1	1	2	NA
+18/12/2008	17/02/2009	17 Andado Place	425000	1931	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/01/2008	1/05/2008	148 Murranji Street	420000	300	Full transfer	Medium density dwelling	5/11/2007	3	1	NA	NA	NA
+29/12/2008	5/03/2009	1 Marqua Place	393000	431	Full transfer	Medium density dwelling	27/10/2008	3	1	1	2	NA
+21/02/2008	19/03/2008	14/41 Jinka Street	376350	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/07/2008	15/09/2008	6 Gorrie Close	365000	286	Full transfer	Medium density dwelling	1/05/2008	3	1	NA	NA	NA
+31/10/2008	5/12/2008	5/27 Jinka Street	360000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/11/2008	NA	5/27 Jinka Street *	360000	6071	Full transfer	NA	10/10/2008	3	1	1	1	NA
+29/02/2008	30/03/2008	6/3 Jinka Street	353500	3531	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/09/2008	3/11/2008	6 Elkedra Close	350000	301	Full transfer	Medium density dwelling	16/06/2008	3	1	NA	1	NA
+18/09/2008	30/10/2008	134 Murranji Street	350000	379	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+22/02/2008	2/04/2008	6/41 Jinka Street	349950	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/03/2008	7/05/2008	1/7 Limbunya Street	340000	2075	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/12/2008	31/01/2009	14/8 Walhallow Street	340000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/01/2008	25/03/2008	12/41 Jinka Street	334000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/09/2008	23/10/2008	2/7 Limbunya Street	330000	2075	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/10/2008	21/12/2008	22 Elkedra Close	320000	263	Full transfer	Medium density dwelling	2/10/2008	2	1	0	1	NA
+2/10/2008	14/11/2008	16/8 Walhallow Street	315000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/10/2008	8/12/2008	7/30 Springvale Drive	288000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/07/2008	9/09/2008	10/28 Springvale Drive	280000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/05/2008	13/06/2008	6/4 Beetaloo Street	265000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/03/2008	30/05/2008	7/8 Beetaloo Street	265000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/06/2008	NA	6A/4 Beetaloo Street *	265000	7773	Full transfer	NA	27/02/2008	2	1	NA	NA	1
+27/03/2008	30/04/2008	18/26 Springvale Drive	261500	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/06/2008	22/08/2008	5/3 Bonrook Street	260000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/07/2008	22/10/2008	4/3 Bonrook Street	258000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/06/2008	27/08/2008	1/8 Beetaloo Street	255000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/06/2008	NA	1/8 Beetaloo Street *	255000	5520	Full transfer	NA	8/04/2008	2	1	NA	NA	1
+31/01/2008	19/03/2008	11/153 Murranji Street	253000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/02/2008	14/05/2008	14/8 Beetaloo Street	250000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/02/2008	NA	14/8 Beetaloo Street *	250000	5520	Full transfer	NA	25/01/2008	2	1	NA	NA	1
+22/05/2008	24/06/2008	11/4 Beetaloo Street	250000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/05/2008	NA	3B/4 Beetaloo Street *	250000	7773	Full transfer	NA	20/03/2008	2	1	NA	NA	1
+23/12/2008	NA	3B/4 Beetaloo Street *	247500	7773	Full transfer	NA	19/11/2008	2	1	0	NA	1
+23/12/2008	11/02/2009	19/4 Beetaloo Street	247500	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/08/2008	19/09/2008	23/26 Springvale Drive	245000	4379	Full transfer	Multiple unit dwelling	10/07/2008	2	1	NA	NA	1
+13/11/2008	20/03/2009	6/4 Beetaloo Street	230000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/12/2008	20/01/2009	15/8 Beetaloo Street	230000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/11/2008	NA	6C/4 Beetaloo Street *	230000	7773	Full transfer	NA	7/10/2008	2	1	0	NA	1
+12/03/2008	21/05/2008	18/32 Springvale Drive	212500	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/09/2008	23/10/2008	1/28 Springvale Drive	200000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/06/2008	2/07/2008	22/26 Springvale Drive	200000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/07/2008	1/09/2008	5/26 Springvale Drive	180000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/11/2008	25/05/2009	21/4 Beetaloo Street	125000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/03/2008	24/08/2009	3/1 Limbunya Street	75250	2159	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/02/2008	4/05/2008	10/28 Springvale Drive	NA	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/05/2008	27/05/2008	17 Mataranka Street	NA	898	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/12/2008	30/11/2010	3/2 Undoolya Street	NA	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/10/2008	28/10/2008	3 Rosewood Place	NA	863	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+13/03/2008	28/11/2008	36 Marrakai Street	NA	2295	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/10/2008	15/09/2010	30 Marrakai Street	NA	1850	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/05/2008	28/07/2008	24 Tanumbirini Street	NA	1533	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+3/02/2008	27/06/2008	5/26 Springvale Drive	NA	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/04/2008	18/07/2008	138 Murranji Street	NA	330	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+23/06/2008	15/09/2008	4/12 Andado Place	NA	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/11/2008	16/04/2009	3A Woolner Circuit	NA	295	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+26/01/2008	27/03/2008	10/42 Jinka Street	NA	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/03/2008	21/04/2008	22 Erldunda Circuit	NA	816	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/01/2008	15/09/2008	20 Elsey Street	NA	1429	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/11/2007	6/05/2008	16 Elsey Street	1200000	1718	Full transfer	Single residential dwelling	28/11/2007	4	2	1	2	2
+21/07/2007	5/11/2007	34 Marrakai Street	1080000	1860	Full transfer	Single residential dwelling	30/06/2007	4	1	2	3	NA
+8/09/2007	7/02/2008	6 Goodparla Street	813000	1564	Full transfer	Single residential dwelling	16/08/2007	4	2	1	2	NA
+1/11/2007	19/02/2008	8 Kurundi Place	800000	1575	Full transfer	Single residential dwelling	15/10/2004	4	2	NA	2	NA
+27/07/2007	14/09/2007	94 Springvale Drive	790000	2181	Full transfer	Single residential dwelling	7/02/2007	4	2	1	3	NA
+20/09/2007	21/11/2007	35 Ambalindum Street	775000	1252	Full transfer	Single residential dwelling	23/08/2007	5	2	1	2	3
+2/05/2007	2/08/2007	2 Alexandria Street	722500	1075	Full transfer	Single residential dwelling	26/10/2006	4	1	1	2	NA
+12/12/2007	10/04/2008	42 Elsey Street	720000	1369	Full transfer	Single residential dwelling	3/10/2007	4	1	1	NA	2
+21/12/2007	19/03/2008	22 Mataranka Street	720000	895	Full transfer	Single residential dwelling	29/11/2007	3	1	1	1	1
+1/09/2007	5/12/2007	30 Ambalindum Street	691000	1145	Full transfer	Single residential dwelling	9/08/2007	4	2	1	2	NA
+12/09/2007	9/10/2007	9 Moroak Street	685000	1184	Full transfer	Single residential dwelling	28/06/2007	4	1	2	3	NA
+6/10/2007	28/11/2007	24 Mataranka Street	685000	872	Full transfer	Single residential dwelling	13/09/2007	3	1	1	2	NA
+29/01/2007	14/03/2007	7 Anningie Place	680000	1758	Full transfer	Single residential dwelling	16/11/2006	5	1	1	2	NA
+7/12/2007	30/01/2008	9 Florina Place	675000	1608	Full transfer	Single residential dwelling	15/11/2007	4	1	1	2	NA
+28/08/2007	4/12/2007	41 Alexandria Street	650000	1414	Full transfer	Single residential dwelling	16/08/2007	4	1	1	2	NA
+21/07/2007	25/09/2007	30 Woolner Circuit	627000	1147	Full transfer	Single residential dwelling	29/06/2007	4	1	2	NA	2
+1/06/2007	19/11/2007	74 Springvale Drive	627000	1167	Full transfer	Single residential dwelling	24/10/2006	5	2	1	3	NA
+24/04/2007	6/06/2007	25 Elsey Street	620000	1017	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/09/2007	19/12/2007	21 Alroy Circuit	620000	860	Full transfer	Single residential dwelling	31/08/2007	4	1	1	3	NA
+16/05/2007	2/08/2007	81 Erldunda Circuit	615000	1233	Full transfer	Single residential dwelling	26/04/2007	5	1	2	2	NA
+22/01/2007	7/11/2007	62 Woolner Circuit	600000	1182	Full transfer	Single residential dwelling	19/09/2006	5	2	1	2	NA
+26/03/2007	5/06/2007	102 Murranji Street	599000	866	Full transfer	Single residential dwelling	18/01/2007	4	1	1	2	NA
+17/11/2007	NA	13 Alroy Circuit *	590000	834	Full transfer	NA	25/10/2007	4	1	1	2	NA
+11/12/2007	5/02/2008	9 Kulgera Street	580000	859	Full transfer	Single residential dwelling	11/11/2007	3	1	1	NA	1
+20/02/2007	12/04/2007	6 Mainoru Place	575000	1083	Full transfer	Single residential dwelling	9/11/2006	4	1	1	1	2
+12/05/2007	13/09/2007	3 Murranji Street	570000	869	Full transfer	Single residential dwelling	24/04/2007	4	1	1	3	NA
+23/11/2007	8/01/2008	63 Erldunda Circuit	547500	859	Full transfer	Single residential dwelling	10/10/2007	4	1	1	2	NA
+19/05/2007	25/07/2007	29 Tanumbirini Street	540000	1000	Full transfer	Single residential dwelling	28/04/2007	4	1	1	NA	2
+23/10/2007	4/12/2007	20 Erldunda Circuit	522500	831	Full transfer	Single residential dwelling	30/08/2007	4	1	1	NA	2
+27/11/2007	7/02/2008	61 Erldunda Circuit	520000	952	Full transfer	Single residential dwelling	4/10/2007	4	1	NA	NA	2
+27/08/2007	17/10/2007	13/10 Jinka Street	445000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/09/2007	2/10/2007	6 Epenarra Close	370000	312	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+7/09/2007	9/10/2007	11/10 Jinka Street	370000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/05/2007	25/07/2007	24 Alexandria Street	366000	817	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/11/2007	NA	37 Elkedra Close *	365000	311	Full transfer	NA	13/09/2007	3	1	NA	1	NA
+23/11/2007	10/01/2008	4/7 Limbunya Street	360500	2075	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/11/2007	NA	3/7 Limbunya Street *	360500	2075	Full transfer	NA	25/10/2007	3	1	1	1	NA
+22/11/2007	28/02/2008	20 Walhallow Street	358000	437	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+22/02/2007	29/03/2007	6 Gorrie Close	335000	286	Full transfer	Medium density dwelling	11/01/2007	3	1	NA	NA	NA
+8/08/2007	25/09/2007	3/7 Limbunya Street	335000	2075	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/12/2007	12/03/2008	1/3 Jinka Street	325000	3531	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/10/2007	11/12/2007	44 Epenarra Close	320000	316	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+21/03/2007	8/05/2007	28 Elkedra Close	319000	280	Full transfer	Medium density dwelling	7/03/2007	2	1	NA	1	NA
+23/05/2007	13/07/2007	9/41 Jinka Street	317000	10583	Full transfer	Multiple unit dwelling	28/03/2007	3	1	NA	NA	1
+9/02/2007	22/03/2007	3 Woolner Circuit	315000	276	Full transfer	Medium density dwelling	12/01/2007	2	1	NA	1	NA
+14/06/2007	7/09/2007	10/41 Jinka Street	315000	10583	Full transfer	Multiple unit dwelling	28/03/2007	3	1	NA	NA	NA
+11/07/2007	20/08/2007	22 Epenarra Close	300000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+31/05/2007	17/08/2007	9/8 Walhallow Street	295000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/04/2007	10/06/2007	2/31 Alexandria Street	290000	983	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/01/2007	26/02/2007	7/8 Walhallow Street	286500	8574	Full transfer	Multiple unit dwelling	23/11/2006	3	1	NA	NA	1
+15/03/2007	22/05/2007	6/9 Jinka Street	285000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/09/2007	31/10/2007	23/28 Springvale Drive	265500	3934	Full transfer	Multiple unit dwelling	31/08/2007	3	1	1	NA	1
+22/03/2007	31/05/2007	7/28 Springvale Drive	257000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/01/2007	9/03/2007	7/30 Springvale Drive	257000	4017	Full transfer	Multiple unit dwelling	11/01/2007	3	1	1	NA	1
+18/01/2007	15/06/2007	1/121 Hawker Place	256000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+20/02/2007	2/04/2007	18/30 Springvale Drive	239000	4017	Full transfer	Multiple unit dwelling	24/01/2007	3	1	1	NA	1
+7/09/2007	21/10/2007	14/4 Beetaloo Street	238000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/04/2007	31/05/2007	8/30 Springvale Drive	236000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/10/2007	29/11/2007	19/28 Springvale Drive	235000	3934	Full transfer	Multiple unit dwelling	9/10/2007	2	1	NA	1	NA
+27/09/2007	29/12/2007	21/153 Murranji Street	235000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/04/2007	6/06/2007	28/4 Beetaloo Street	232000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/07/2007	27/08/2007	14/3 Bonrook Street	230000	3862	Full transfer	Multiple unit dwelling	4/06/2007	2	1	NA	NA	1
+25/05/2007	25/07/2007	6/3 Bonrook Street	227000	3862	Full transfer	Multiple unit dwelling	3/05/2007	2	NA	NA	NA	1
+21/05/2007	15/08/2007	5/30 Springvale Drive	220000	4017	Full transfer	Multiple unit dwelling	16/04/2007	2	1	NA	NA	1
+30/03/2007	22/06/2007	11/3 Bonrook Street	215000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/05/2007	11/07/2007	15/153 Murranji Street	210000	5542	Full transfer	Multiple unit dwelling	27/04/2007	2	1	NA	NA	1
+28/03/2007	24/05/2007	2/4 Beetaloo Street	207000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/06/2007	19/03/2008	13/121 Hawker Place	200000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+12/02/2007	26/03/2007	4/28 Springvale Drive	198000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/03/2007	24/05/2007	7/26 Springvale Drive	194950	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/02/2007	10/06/2007	23/4 Beetaloo Street	190000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/02/2007	22/03/2007	9/153 Murranji Street	180000	5542	Full transfer	Multiple unit dwelling	19/01/2007	1	1	NA	NA	1
+12/03/2007	24/05/2007	138 Murranji Street	180000	330	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+23/01/2007	23/02/2007	3/32 Springvale Drive	180000	4247	Full transfer	Multiple unit dwelling	1/12/2006	2	1	NA	NA	NA
+13/03/2007	2/04/2007	3/26 Springvale Drive	175000	4379	Full transfer	Multiple unit dwelling	7/11/2006	1	1	NA	NA	1
+18/01/2007	15/06/2007	17/121 Hawker Place	60000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+10/02/2007	2/04/2007	1 Epenarra Close	0	515	Full transfer	Medium density dwelling	11/01/2007	3	1	NA	1	NA
+7/10/2007	26/11/2007	1/8 Bonrook Street	0	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/03/2007	26/07/2007	5/32 Springvale Drive	0	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/04/2007	14/11/2007	37 Elkedra Close	0	311	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+10/05/2007	19/09/2007	5 Kurundi Place	0	1127	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/06/2007	21/11/2007	13/8 Beetaloo Street	0	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/04/2007	6/07/2007	70 Alroy Circuit	0	1582	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/04/2007	30/10/2007	5/9 Jinka Street	0	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/02/2007	22/02/2007	66 Woolner Circuit	0	1611	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/04/2007	29/08/2007	23 Gorrie Close	0	357	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+1/01/2007	26/03/2007	6/3 Bonrook Street	0	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/03/2007	2/08/2007	8 Andado Place	0	1800	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/02/2007	27/03/2007	20 Walhallow Street	0	437	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+1/09/2007	1/08/2008	4 Epenarra Close	NA	302	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+28/03/2007	NA	2A/2A/4 Beetaloo Street *	NA	7773	Full transfer	NA	23/02/2007	2	1	NA	NA	1
+28/05/2007	8/04/2008	44 Alroy Circuit	NA	970	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+17/12/2007	18/01/2008	5/32 Springvale Drive	NA	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/02/2007	NA	4\28 Springvale Drive *	NA	0	Full transfer	NA	18/01/2007	2	1	NA	NA	1
+22/05/2007	29/01/2008	3/2 Undoolya Street	NA	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/10/2007	1/07/2008	12/21 Jinka Street	NA	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/09/2007	NA	6B/4 Beetaloo Street *	NA	7773	Full transfer	NA	10/08/2007	2	1	NA	NA	1
+11/02/2006	15/03/2006	28 Marrakai Street	875000	2809	Full transfer	Single residential dwelling	17/01/2006	4	1	1	NA	2
+12/11/2006	25/01/2007	17 Mainoru Place	807000	2342	Full transfer	Single residential dwelling	19/10/2006	6	1	1	2	NA
+26/04/2006	5/06/2006	1/14 Andado Place	790000	1808	Full transfer	Multiple unit dwelling	9/02/2006	4	1	1	2	NA
+17/03/2006	11/05/2006	42 Marrakai Street	740000	1547	Full transfer	Single residential dwelling	2/03/2006	4	2	1	2	NA
+5/04/2006	10/08/2006	23 Marrakai Street	735000	1296	Full transfer	Single residential dwelling	9/03/2006	3	1	1	NA	3
+15/11/2006	5/01/2007	11 Marrakai Street	732000	1225	Full transfer	Single residential dwelling	18/10/2006	4	1	1	4	NA
+13/06/2006	14/08/2006	11 Mataranka Street	657000	1108	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+17/05/2006	15/06/2006	34 Ambalindum Street	656000	1161	Full transfer	Single residential dwelling	2/04/2006	5	1	2	0	3
+14/07/2006	7/11/2006	19 Mainoru Place	640000	1572	Full transfer	Single residential dwelling	19/07/2006	4	1	1	2	NA
+17/08/2006	16/10/2006	26 Ambalindum Street	638000	1112	Full transfer	Single residential dwelling	18/05/2006	5	2	1	2	NA
+1/09/2006	29/01/2007	4/12 Andado Place	625000	4834	Full transfer	Multiple unit dwelling	18/08/2006	4	2	NA	2	NA
+6/11/2006	29/01/2007	5 Moroak Street	586000	1173	Full transfer	Single residential dwelling	11/10/2006	4	1	1	2	NA
+22/09/2006	21/12/2006	22 Moroak Street	580000	1256	Full transfer	Single residential dwelling	22/07/2006	4	1	1	1	1
+3/05/2006	6/08/2006	19 Mataranka Street	565000	908	Full transfer	Single residential dwelling	1/05/2006	NA	NA	NA	NA	NA
+31/10/2006	18/01/2007	50 Murranji Street	535000	1002	Full transfer	Single residential dwelling	19/09/2006	5	1	1	2	NA
+3/03/2006	20/06/2006	12 Murranji Street	510000	1050	Full transfer	Single residential dwelling	19/01/2006	4	1	2	2	NA
+15/11/2006	NA	70 Murranji Street *	505000	953	Full transfer	NA	31/08/2006	4	2	1	0	2
+29/07/2006	2/11/2006	59 Erldunda Circuit	505000	952	Full transfer	Single residential dwelling	4/07/2006	4	1	1	0	2
+27/02/2006	31/03/2006	106 Murranji Street	502000	795	Full transfer	Single residential dwelling	31/01/2006	4	1	1	2	NA
+8/02/2006	10/03/2006	33 Alexandria Street	500000	831	Full transfer	Single residential dwelling	29/10/2005	4	1	1	2	NA
+4/04/2006	26/05/2006	50 Woolner Circuit	497000	1064	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/10/2006	16/11/2006	1/8 Elsey Street	485000	1614	Full transfer	Multiple unit dwelling	7/09/2006	4	1	1	2	NA
+8/07/2006	28/08/2006	21 Elsey Street	442000	976	Full transfer	Single residential dwelling	15/06/2006	3	1	NA	1	NA
+18/08/2006	29/08/2006	90 Murranji Street	420000	826	Full transfer	Single residential dwelling	19/06/2006	3	1	1	2	NA
+23/03/2006	23/05/2006	9/10 Jinka Street	419000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/05/2006	12/09/2006	70 Springvale Drive	405000	1176	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/05/2006	NA	4/42 Jinka Street *	380000	6092	Full transfer	NA	24/03/2006	3	2	1	2	NA
+10/05/2006	20/06/2006	4/42 Jinka Street	380000	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/01/2006	15/07/2006	2 Murranji Street	366000	1047	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/01/2006	NA	2 Murranji Street *	365000	1047	Full transfer	NA	22/12/2005	3	2	NA	2	NA
+18/05/2006	4/08/2006	7/41 Jinka Street	348000	10583	Full transfer	Multiple unit dwelling	20/04/2006	3	1	1	0	NA
+9/10/2006	NA	10 Elkedra Close *	340000	288	Full transfer	NA	21/09/2006	3	1	NA	1	NA
+10/05/2006	19/06/2006	8 Epenarra Close	338000	296	Full transfer	Medium density dwelling	28/02/2006	3	1	1	1	NA
+27/05/2006	1/08/2006	14 Walhallow Street	332500	327	Full transfer	Medium density dwelling	24/04/2006	3	1	1	1	NA
+25/08/2006	29/10/2006	4 Marqua Place	331000	330	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+16/10/2006	4/12/2006	16 Epenarra Close	330000	302	Full transfer	Medium density dwelling	20/09/2006	3	1	NA	1	NA
+24/11/2006	5/01/2007	43 Elkedra Close	326000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+11/04/2006	29/05/2006	15 Murranji Street	325000	933	Full transfer	Single residential dwelling...	NA	NA	NA	NA	NA	NA
+14/03/2006	31/05/2006	3/10 Jinka Street	324000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/03/2006	NA	16 Jinka Street *	324000	NA	Full transfer	NA	25/01/2006	2	1	NA	1	NA
+28/06/2006	11/08/2006	27 Elkedra Close	312500	353	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+29/06/2006	NA	27 Elkedra Close *	312000	353	Full transfer	NA	16/05/2006	3	1	NA	0	2
+16/03/2006	2/05/2006	12 Elkedra Close	309000	297	Full transfer	Medium density dwelling	22/02/2006	2	1	NA	0	1
+3/07/2006	6/08/2006	25 Elkedra Close	307000	353	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+21/07/2006	12/09/2006	45 Elkedra Close	305000	314	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+9/10/2006	22/11/2006	13 Gorrie Close	305000	279	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+22/12/2006	14/02/2007	130 Murranji Street	300000	332	Full transfer	Medium density dwelling	23/08/2006	3	1	NA	1	NA
+19/01/2006	29/03/2006	8/27 Jinka Street	300000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/05/2006	22/06/2006	5/10 Jinka Street	300000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/02/2006	NA	12/41 Jinka Street *	297000	10583	Full transfer	NA	22/11/2005	3	1	NA	0	1
+17/02/2006	17/03/2006	12/41 Jinka Street	297000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/04/2006	19/06/2006	11/21 Jinka Street	296500	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/12/2006	6/02/2007	8/21 Jinka Street	292000	10221	Full transfer	Multiple unit dwelling	22/11/2006	3	1	NA	0	1
+20/12/2006	2/02/2007	11/21 Jinka Street	282500	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/06/2006	22/08/2006	15/8 Walhallow Street	268000	8574	Full transfer	Multiple unit dwelling	8/06/2006	2	1	NA	0	1
+5/10/2006	13/11/2006	16/30 Springvale Drive	226500	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/05/2006	22/06/2006	10/28 Springvale Drive	225000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/06/2006	NA	10/28 Springvale Drive *	225000	3934	Full transfer	NA	28/04/2006	3	2	NA	0	1
+16/05/2006	26/06/2006	7/121 Hawker Place	215000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+26/04/2006	23/05/2006	17/28 Springvale Drive	215000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/09/2006	2/11/2006	17/4 Beetaloo Street	205000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/03/2006	24/03/2006	15/30 Springvale Drive	200000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/12/2006	12/03/2007	1/26 Springvale Drive	195000	4379	Full transfer	Multiple unit dwelling	14/11/2006	2	1	NA	0	1
+22/12/2006	16/02/2007	8/3 Bonrook Street	195000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/06/2006	19/07/2006	21/8 Beetaloo Street	195000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/06/2006	24/07/2006	6/30 Springvale Drive	192000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/01/2006	20/02/2006	3/4 Beetaloo Street	191000	7773	Full transfer	Multiple unit dwelling	14/12/2005	2	NA	NA	0	1
+2/11/2006	19/02/2007	21/153 Murranji Street	189950	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/03/2006	18/04/2006	6/32 Springvale Drive	188000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/04/2006	5/06/2006	19/26 Springvale Drive	188000	4379	Full transfer	Multiple unit dwelling	3/03/2006	2	1	NA	0	1
+4/04/2006	NA	6/32 Springvale Drive *	188000	4247	Full transfer	NA	8/12/2005	2	1	NA	0	1
+24/03/2006	16/05/2006	12/3 Bonrook Street	185500	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/02/2006	16/03/2006	8/26 Springvale Drive	185000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/02/2006	15/06/2006	22/32 Springvale Drive	184000	4247	Full transfer	Multiple unit dwelling	25/01/2006	2	1	NA	0	1
+22/02/2006	21/06/2006	19/30 Springvale Drive	183000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/03/2006	NA	22/28 Springvale Drive *	177000	3934	Full transfer	NA	9/11/2005	2	1	NA	0	1
+2/03/2006	28/03/2006	22/28 Springvale Drive	177000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/07/2006	24/08/2006	4/26 Springvale Drive	160000	4379	Full transfer	Multiple unit dwelling	20/04/2006	1	1	NA	NA	NA
+3/02/2006	17/03/2006	152 Murranji Street	116000	307	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+12/05/2006	17/08/2007	9/8 Walhallow Street	0	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/11/2006	5/01/2007	14 Alexandria Street	0	930	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+3/12/2006	18/12/2007	9 Florina Place	0	1608	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/06/2006	10/01/2007	70 Murranji Street	0	953	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/05/2006	22/03/2007	5/41 Jinka Street	0	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/10/2006	5/01/2007	64 Erldunda Circuit	0	1196	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/09/2006	5/12/2006	138 Murranji Street	NA	330	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+29/04/2006	4/07/2006	24 Moroak Street	NA	1127	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/05/2006	27/07/2006	3 Murranji Street	NA	869	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/02/2006	7/04/2006	4 Dungowan Street	NA	748	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/10/2006	27/11/2006	99 Erldunda Circuit	NA	745	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/05/2006	22/08/2006	59 Erldunda Circuit	NA	952	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/03/2006	1/12/2006	3 Anningie Place	NA	1131	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/09/2006	NA	1C/4 Beetaloo Street *	NA	7773	Full transfer	NA	30/05/2006	2	1	NA	0	1
+17/03/2006	28/07/2006	19 Mainoru Place	NA	1572	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/02/2006	21/07/2006	10/27 Jinka Street	NA	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/12/2006	22/06/2011	62 Alroy Circuit	NA	792	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/01/2006	1/08/2006	14 Walhallow Street	NA	327	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/02/2006	11/04/2006	24 Erldunda Circuit	NA	802	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/01/2006	NA	Unit 8/27 Jinka Street *	NA	6071	Full transfer	NA	7/12/2005	3	1	1	1	NA
+27/12/2006	18/07/2008	28 Goodparla Street	NA	1215	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/12/2005	6/11/2006	170 Hawker Place	1375000	2538	Full transfer	Residential	NA	NA	NA	NA	NA	NA
+25/07/2005	18/08/2005	36 Marrakai Street	780000	2295	Full transfer	Single residential dwelling	10/03/2005	7	2	1	4	NA
+12/11/2005	4/01/2006	53 Ambalindum Street	775000	2354	Full transfer	Single residential dwelling	20/10/2005	4	1	1	0	2
+8/11/2005	9/02/2006	7 Anningie Place	665000	1758	Full transfer	Single residential dwelling	5/10/2005	5	2	1	2	1
+28/06/2005	5/08/2005	17 Goodparla Street	640000	1163	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/10/2005	9/02/2006	32 Alroy Circuit	630000	948	Full transfer	Single residential dwelling	22/06/2005	4	1	2	2	NA
+23/03/2005	23/05/2005	8 Andado Place	620000	1800	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/03/2005	4/05/2005	15 Tanumbirini Street	620000	1274	Full transfer	Single residential dwelling	27/10/2004	4	1	1	2	NA
+10/12/2005	10/02/2006	79 Erldunda Circuit	603500	1215	Full transfer	Single residential dwelling	11/11/2005	5	2	1	2	1
+30/05/2005	21/09/2005	2/8 Elsey Street	600000	1614	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/12/2005	1/02/2006	2 Kurundi Place	582000	1141	Full transfer	Single residential dwelling	10/11/2005	5	2	1	2	NA
+29/04/2005	20/06/2005	19 Alroy Circuit	550000	875	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/08/2005	9/12/2005	59 Ambalindum Street	537000	1287	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/03/2005	8/04/2005	74 Murranji Street	520000	1214	Full transfer	Single residential dwelling	16/09/2004	4	1	1	1	1
+5/10/2005	22/01/2006	12 Erldunda Circuit	515000	756	Full transfer	Single residential dwelling	22/09/2005	4	1	1	0	3
+15/04/2005	NA	67 Erldunda Circuit *	490000	868	Full transfer	NA	30/03/2005	4	1	1	0	2
+15/09/2005	7/12/2005	57 Ambalindum Street	485000	1724	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/12/2005	NA	22/3 Delamere Street *	480000	NA	Full transfer	NA	15/11/2005	3	1	1	2	NA
+14/12/2005	31/01/2006	22/1 Delamere Street	480000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/09/2005	26/10/2005	25 Alroy Circuit	463000	770	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/01/2005	14/04/2005	13 Alexandria Street	460000	804	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/05/2005	15/07/2005	1 Tobermorey Place	440000	1098	Full transfer	Single residential dwelling	11/04/2005	4	1	1	2	1
+11/03/2005	4/05/2005	87 Erldunda Circuit	430000	1105	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/07/2005	20/09/2005	50 Alroy Circuit	430000	825	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/03/2005	28/04/2005	28 Erldunda Circuit	420000	743	Full transfer	Single residential dwelling	16/02/2005	4	1	1	2	NA
+4/06/2005	18/07/2005	23 Elsey Street	410000	1051	Full transfer	Single residential dwelling	11/05/2005	4	1	1	2	NA
+4/10/2005	10/11/2005	3/42 Jinka Street	405000	6092	Full transfer	Multiple unit dwelling	5/09/2005	3	1	1	2	NA
+9/06/2005	19/07/2005	104 Murranji Street	400000	880	Full transfer	Single residential dwelling	30/03/2005	4	1	1	2	NA
+7/07/2005	10/08/2005	46 Alroy Circuit	395000	825	Full transfer	Single residential dwelling	29/06/2005	3	1	NA	1	1
+14/07/2005	24/08/2005	7/42 Jinka Street	390000	6092	Full transfer	Multiple unit dwelling	13/04/2005	3	1	1	2	NA
+27/06/2005	3/08/2005	8/42 Jinka Street	379000	6092	Full transfer	Multiple unit dwelling	13/05/2005	3	1	1	2	NA
+4/05/2005	9/06/2005	61 Erldunda Circuit	365000	952	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/03/2005	12/04/2005	136 Murranji Street	330000	399	Full transfer	Medium density dwelling	7/01/2005	3	1	NA	1	NA
+18/02/2005	30/03/2005	150 Murranji Street	322200	287	Full transfer	Medium density dwelling	11/02/2005	3	1	NA	1	NA
+20/12/2005	25/01/2006	21 Gorrie Close	316000	673	Full transfer	Medium density dwelling	23/11/2005	2	1	NA	0	2
+18/05/2005	30/06/2005	3 Elkedra Close	305000	331	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+23/06/2005	13/07/2005	5 Gorrie Close	300000	372	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+16/09/2005	19/10/2005	128 Murranji Street	295000	309	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+28/01/2005	28/02/2005	1/31 Alexandria Street	290000	983	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/04/2005	1/06/2005	14 Elkedra Close	289000	297	Full transfer	Medium density dwelling	21/02/2005	2	1	NA	0	1
+18/04/2005	15/12/2005	44 Epenarra Close	285000	316	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+7/04/2005	20/06/2005	13 Elkedra Close	280000	283	Full transfer	Medium density dwelling	2/03/2005	3	1	1	1	NA
+12/05/2005	20/06/2005	15/41 Jinka Street	276000	10583	Full transfer	Multiple unit dwelling	11/02/2005	3	1	NA	0	1
+22/12/2005	13/02/2006	17/21 Jinka Street	269000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/10/2005	3/11/2005	4/8 Walhallow Street	255000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/09/2005	NA	4/8 Walhallow Street *	255000	475	Full transfer	NA	1/09/2005	2	NA	NA	1	1
+28/01/2005	18/02/2005	3/21 Jinka Street	252000	10221	Full transfer	Multiple unit dwelling	24/11/2004	2	1	NA	1	NA
+27/09/2005	28/10/2005	15/21 Jinka Street	250000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/10/2005	14/11/2005	2/72 Hawker Place	240000	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+25/10/2005	4/01/2006	16/28 Springvale Drive	220000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/05/2005	21/06/2005	15/121 Hawker Place	207595	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+31/08/2005	5/10/2005	22/8 Beetaloo Street	202000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/07/2005	NA	1/28 Springvale Drive *	200000	3934	Full transfer	NA	11/02/2005	3	1	1	0	1
+9/03/2005	12/04/2005	9/30 Springvale Drive	196000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/09/2005	5/12/2005	8/30 Springvale Drive	190000	4017	Full transfer	Multiple unit dwelling	8/04/2005	3	1	1	0	1
+12/12/2005	10/01/2006	20/28 Springvale Drive	188000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/03/2005	4/05/2005	15/8 Beetaloo Street	185000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/10/2005	15/11/2005	1/8 Beetaloo Street	184000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/08/2005	7/09/2005	10/3 Bonrook Street	180000	3862	Full transfer	Multiple unit dwelling	1/06/2005	2	1	NA	0	1
+24/06/2005	2/08/2005	8/8 Beetaloo Street	175000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/09/2005	26/10/2005	31/4 Beetaloo Street	170000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/05/2005	21/06/2005	16/121 Hawker Place	159905	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+25/02/2005	13/05/2005	9/121 Hawker Place	159500	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+1/07/2005	12/08/2005	14/41 Jinka Street	120000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/02/2005	2/08/2007	2 Alexandria Street	0	1075	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/05/2005	7/06/2013	100 Springvale Drive	0	2061	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/10/2005	28/10/2005	26 Elsey Street	NA	1246	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/01/2005	24/02/2005	2/1 Delamere Street	NA	18341	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/07/2005	10/08/2005	10/27 Jinka Street	NA	6071	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/02/2005	15/03/2005	23 Moroak Street	NA	1248	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/05/2005	NA	8B Elsey Street *	NA	1017	Full transfer	NA	15/04/2005	4	1	2	2	NA
+5/10/2005	10/04/2006	74 Springvale Drive	NA	1167	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/02/2005	18/04/2005	25 Elsey Street	NA	1017	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/09/2005	25/11/2005	9/8 Walhallow Street	NA	8574	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/12/2005	NA	020EHH Good News!! *	NA	NA	Full transfer	NA	11/10/2005	2	1	NA	NA	NA
+3/11/2005	22/12/2005	76 Springvale Drive	NA	1163	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/10/2005	8/11/2005	55 Alroy Circuit	NA	928	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/08/2005	25/08/2005	17 Erldunda Circuit	NA	911	Partial transfer	Single residential dwelling	14/11/2002	5	1	2	2	NA
+19/07/2005	22/08/2005	49 Alroy Circuit	NA	951	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/06/2004	9/06/2004	170 Hawker Place	1160000	2538	Full transfer	Residential	NA	NA	NA	NA	NA	NA
+7/08/2004	20/10/2004	36 Elsey Street	995000	1587	Full transfer	Single residential dwelling	9/07/2004	4	2	2	0	2
+30/06/2004	18/10/2004	18 Marrakai Street	810000	2712	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/08/2004	18/10/2004	34 Elsey Street	775000	1238	Full transfer	Single residential dwelling	15/07/2004	5	2	1	0	2
+6/11/2004	20/01/2005	18 Mainoru Place	756000	1962	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+13/11/2004	24/01/2005	8 Kurundi Place	660000	1575	Full transfer	Single residential dwelling	15/10/2004	4	2	NA	2	NA
+4/11/2004	20/12/2004	40 Ambalindum Street	660000	1079	Full transfer	Single residential dwelling	16/09/2004	5	1	2	3	NA
+6/04/2004	6/05/2004	3 Marrakai Street	647000	1231	Full transfer	Single residential dwelling...	12/02/2004	4	2	1	2	1
+5/11/2004	16/12/2004	6 Mainoru Place	610000	1083	Full transfer	Single residential dwelling	5/03/2004	4	2	NA	3	NA
+6/02/2004	3/06/2004	8 Kyabra Place	595000	1192	Full transfer	Single residential dwelling	16/01/2004	4	1	1	2	2
+28/09/2004	22/11/2004	26 Woolner Circuit	586000	1159	Full transfer	Single residential dwelling...	13/07/2004	4	1	1	0	3
+17/09/2004	17/01/2005	29 Woolner Circuit	580000	1044	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/10/2004	30/11/2004	14 Ambalindum Street	570000	1544	Full transfer	Single residential dwelling	2/10/2004	3	1	1	2	NA
+19/11/2004	23/02/2005	48 Woolner Circuit	570000	1091	Full transfer	Single residential dwelling	10/09/2004	4	1	1	0	2
+23/01/2004	31/03/2004	2/14 Andado Place	570000	1808	Full transfer	Multiple unit dwelling	14/11/2003	5	1	1	2	NA
+8/04/2004	6/05/2004	7 Shandon Place	569000	1135	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/05/2004	11/08/2004	4/12 Andado Place	565000	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/07/2004	3/11/2004	15 Elsey Street	558000	840	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/12/2004	1/02/2004	39 Tanumbirini Street	549000	892	Full transfer	Single residential dwelling	24/11/2004	4	1	1	0	2
+23/11/2004	17/02/2005	27 Woolner Circuit	547500	1039	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/06/2004	6/07/2004	7 Marrakai Street	545000	1232	Full transfer	Single residential dwelling	4/03/2004	3	1	1	2	NA
+28/10/2004	29/11/2004	4 Kyabra Place	525000	985	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/07/2004	24/08/2004	29 Ambalindum Street	525000	1356	Full transfer	Single residential dwelling	24/06/2004	4	1	1	0	2
+30/06/2004	7/10/2004	72 Murranji Street	523000	898	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/05/2004	1/06/2004	21 Kulgera Street	510000	859	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+20/04/2004	15/07/2004	4/38 Hawker Place	500000	552	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+5/04/2004	28/06/2004	48 Alroy Circuit	492000	825	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/02/2004	3/05/2004	112 Murranji Street	473000	787	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/08/2004	15/11/2004	10 Erldunda Circuit	465000	933	Full transfer	Single residential dwelling	6/07/2004	4	2	1	3	1
+26/07/2004	24/09/2004	22 Ambalindum Street	460000	1223	Full transfer	Single residential dwelling	6/07/2004	3	1	1	0	2
+2/04/2004	24/05/2004	23 Alroy Circuit	460000	756	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/12/2004	11/02/2005	3 Erldunda Circuit	455000	984	Full transfer	Single residential dwelling	18/11/2004	4	1	1	2	NA
+21/09/2004	26/10/2004	6 Rosewood Place	430000	984	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/06/2004	15/07/2004	4 Dungowan Street	405500	748	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/04/2004	19/05/2004	50 Erldunda Circuit	398000	1060	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/07/2004	23/08/2004	144 Murranji Street	345000	317	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+20/05/2004	21/06/2004	7/41 Jinka Street	337000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/08/2004	29/11/2004	1 Woolner Circuit	335000	467	Full transfer	Medium density dwelling	28/07/2004	3	1	NA	1	NA
+22/04/2004	24/05/2004	2 Epenarra Close	327000	483	Full transfer	Medium density dwelling	25/02/2004	3	1	NA	1	NA
+21/10/2004	6/01/2005	90 Murranji Street	312000	826	Full transfer	Single residential dwelling	17/09/2004	3	1	1	2	NA
+20/08/2004	7/09/2004	6 Gorrie Close	311000	286	Full transfer	Medium density dwelling	25/06/2004	3	1	NA	NA	NA
+8/04/2004	19/05/2004	36 Epenarra Close	305000	302	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+13/01/2004	2/02/2004	5/3 Jinka Street	300000	3531	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/11/2004	11/01/2005	19 Elkedra Close	298000	302	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+17/12/2004	24/01/2005	10 Epenarra Close	293000	317	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+8/06/2004	21/09/2005	130 Murranji Street	289950	332	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+21/12/2004	10/02/2005	33 Gorrie Close	280000	341	Full transfer	Medium density dwelling	2/07/2004	3	1	NA	1	NA
+25/03/2004	13/05/2004	1/21 Jinka Street	270000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/09/2004	27/10/2004	2/27 Jinka Street	270000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/06/2004	19/07/2004	14 Gorrie Close	265000	509	Full transfer	Medium density dwelling	15/04/2004	3	1	NA	1	NA
+12/03/2004	17/03/2005	2/8 Elsey Street	253000	1614	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/07/2004	26/09/2005	2/121 Hawker Place	250000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+30/06/2004	15/10/2004	2/72 Hawker Place	235000	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+22/03/2004	28/04/2004	17/30 Springvale Drive	230000	4017	Full transfer	Multiple unit dwelling	24/11/2003	3	1	1	0	2
+7/12/2004	8/02/2005	2/30 Springvale Drive	220000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/02/2004	9/02/2004	92 Springvale Drive	217500	1778	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/01/2004	1/04/2004	16/8 Beetaloo Street	215000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/09/2004	7/10/2004	3/10 Jinka Street	210000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/12/2004	10/02/2005	16/28 Springvale Drive	201000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/04/2004	30/04/2004	6/3 Bonrook Street	199000	3862	Full transfer	Multiple unit dwelling	11/03/2004	2	1	NA	0	1
+2/06/2004	25/06/2004	12/153 Murranji Street	195000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/12/2004	10/02/2005	9/28 Springvale Drive	195000	3934	Full transfer	Multiple unit dwelling	16/07/2004	3	1	1	0	1
+11/06/2004	12/07/2004	20/8 Beetaloo Street	192000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/09/2004	13/10/2004	14/3 Bonrook Street	191500	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/10/2004	NA	12/28 Springvale Drive *	178000	3934	Full transfer	NA	1/07/2004	2	1	NA	0	1
+5/11/2004	5/11/2004	12/28 Springvale Drive	178000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/06/2004	14/07/2004	9/153 Murranji Street	178000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/07/2004	19/07/2004	30/4 Beetaloo Street	178000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/08/2004	7/09/2004	10/3 Bonrook Street	176500	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/07/2004	16/08/2004	5/32 Springvale Drive	175000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/05/2004	28/07/2004	27/4 Beetaloo Street	175000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/09/2004	25/11/2004	19/8 Beetaloo Street	175000	5520	Full transfer	Multiple unit dwelling	16/07/2004	2	1	NA	0	1
+3/06/2004	5/07/2004	16/153 Murranji Street	173500	5542	Full transfer	Multiple unit dwelling	30/04/2004	2	1	NA	0	2
+20/08/2004	24/09/2004	2/153 Murranji Street	172000	5542	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/01/2004	13/02/2004	21/30 Springvale Drive	167000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/11/2004	20/12/2004	10/121 Hawker Place	158000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+29/09/2004	20/10/2004	10/121 Hawker Place	145000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+25/03/2004	27/04/2004	8/27 Jinka Street	113500	6071	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/01/2004	2/02/2004	7/30 Springvale Drive	105000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/05/2004	2/08/2004	5/32 Springvale Drive	NA	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/04/2004	2/04/2004	3 Marrakai Street	NA	1231	Partial transfer	Single residential dwelling...	NA	NA	NA	NA	NA	NA
+20/09/2004	9/11/2005	25 Elsey Street	NA	1017	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+20/02/2004	20/02/2004	15 Mainoru Place	NA	2743	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/12/2004	10/08/2005	6/21 Jinka Street	NA	10221	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/06/2004	22/09/2004	19 Kulgera Street	NA	859	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+6/07/2004	23/08/2004	21 Goodparla Street	NA	1089	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/01/2004	30/01/2004	4/38 Hawker Place	NA	552	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+24/05/2004	24/05/2004	15/4 Beetaloo Street	NA	7773	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/04/2004	26/07/2004	13/21 Jinka Street	NA	10221	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/07/2004	6/03/2006	16/8 Beetaloo Street	NA	5520	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/05/2004	19/05/2004	12 Elkedra Close	NA	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+7/12/2004	29/04/2005	11 Shandon Place	NA	869	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+20/05/2004	20/05/2004	20 Erldunda Circuit	NA	831	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/05/2004	NA	NA *	NA	NA	Full transfer	NA	1/04/2004	4	1	1	2	NA
+2/06/2004	NA	Murranji Street *	NA	NA	Full transfer	NA	19/03/2004	2	1	NA	0	1
+6/05/2004	6/05/2004	12/30 Springvale Drive	NA	4017	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/11/2003	6/02/2004	51 Woolner Circuit	985000	1997	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/08/2003	12/01/2004	59 Woolner Circuit	715000	2525	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/03/2003	12/05/2003	44 Alroy Circuit	584000	970	Full transfer	Single residential dwelling	7/02/2003	5	1	1	2	NA
+17/04/2003	12/08/2003	30 Goodparla Street	580000	1250	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/03/2003	22/04/2003	29 Marrakai Street	575000	1161	Full transfer	Single residential dwelling	20/11/2002	5	1	2	3	NA
+7/05/2003	4/06/2003	65 Woolner Circuit	561000	1286	Full transfer	Single residential dwelling	28/03/2003	4	NA	NA	2	NA
+29/03/2003	27/05/2003	21 Ambalindum Street	552500	1212	Full transfer	Single residential dwelling	5/03/2003	4	1	1	0	3
+4/02/2003	28/05/2003	8 Kyabra Place	550000	1192	Full transfer	Single residential dwelling	10/01/2003	4	1	1	2	NA
+5/07/2003	4/09/2003	11 Marrakai Street	535000	1225	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/06/2003	4/09/2003	21 Woolner Circuit	499000	972	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/07/2003	12/08/2003	64 Alroy Circuit	495000	792	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/02/2003	4/06/2003	38 Ambalindum Street	495000	1024	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/07/2003	10/09/2003	58 Alroy Circuit	495000	914	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/07/2003	25/08/2003	30 Tanumbirini Street	492500	1193	Full transfer	Single residential dwelling	12/06/2003	4	1	1	3	NA
+23/04/2003	1/07/2003	66 Woolner Circuit	485000	1611	Full transfer	Single residential dwelling	21/03/2003	NA	NA	NA	NA	NA
+16/04/2003	23/06/2003	31 Marrakai Street	484000	1431	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/05/2003	24/06/2003	16 Murranji Street	465000	1145	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/06/2003	15/09/2003	45 Tanumbirini Street	459000	889	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/06/2003	9/07/2003	20 Kulgera Street	456000	914	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/06/2003	6/01/2004	10 Alexandria Street	455000	820	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/03/2003	9/04/2003	18 Tanumbirini Street	455000	1564	Full transfer	Single residential dwelling	2/02/2003	5	1	1	0	2
+17/12/2003	2/02/2004	52 Alroy Circuit	450000	914	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/09/2003	15/12/2003	16/1 Delamere Street	440000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/05/2003	NA	5 Tanumbirini Street *	440000	1046	Full transfer	NA	23/10/2002	4	2	1	NA	NA
+30/04/2003	27/05/2003	5 Tanumbirini Street	435000	1046	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/05/2003	8/07/2003	22 Murranji Street	420000	1204	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+17/06/2003	19/08/2003	25 Alroy Circuit	410000	770	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/01/2003	12/03/2003	9/1 Delamere Street	400000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/01/2003	5/03/2003	1 Kurundi Place	394000	1173	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/10/2003	9/12/2003	7/42 Jinka Street	376000	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/06/2003	13/08/2003	9 Kulgera Street	366000	859	Full transfer	Single residential dwelling	19/02/2003	3	1	1	2	NA
+7/03/2003	28/05/2003	37 Tanumbirini Street	363000	861	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/12/2003	27/01/2004	5/121 Hawker Place	350000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+18/12/2003	27/01/2004	6/121 Hawker Place	350000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+17/10/2003	1/12/2003	27 Elkedra Close	311000	353	Full transfer	Medium density dwelling	28/08/2003	3	1	NA	0	2
+28/10/2003	5/12/2003	8 Epenarra Close	310000	296	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/05/2003	3/07/2003	8/2 Undoolya Street	310000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/04/2003	24/06/2003	2 Murranji Street	310000	1047	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/07/2003	11/08/2003	4/27 Jinka Street	300000	6071	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/09/2003	1/12/2003	49 Elkedra Close	289000	316	Full transfer	Medium density dwelling	21/08/2003	3	1	NA	1	NA
+18/07/2003	18/08/2003	5/72 Hawker Place	285160	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+16/07/2003	22/09/2003	12 Elkedra Close	285000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+19/09/2003	24/06/2004	6/8 Walhallow Street	275000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/01/2003	28/03/2003	148 Murranji Street	270000	300	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+24/12/2003	30/01/2004	13/8 Walhallow Street	265000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/07/2003	18/08/2003	6/72 Hawker Place	262039	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+5/02/2003	10/03/2003	3/72 Hawker Place	258500	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+23/05/2003	19/04/2004	10/8 Walhallow Street	257400	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/03/2003	1/05/2003	11/8 Walhallow Street	256000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/08/2003	22/09/2003	2/21 Jinka Street	252000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/02/2003	1/05/2003	136 Murranji Street	251000	399	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+20/08/2003	24/09/2003	46 Alroy Circuit	250000	825	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/06/2003	4/08/2003	28 Elkedra Close	250000	280	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+10/11/2003	16/01/2004	2 Marqua Place	250000	469	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+24/02/2003	28/03/2003	39 Elkedra Close	250000	311	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+10/04/2003	7/07/2003	5/21 Jinka Street	240000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/10/2003	19/12/2003	23/8 Beetaloo Street	226000	5520	Full transfer	Multiple unit dwelling	29/01/2003	2	1	NA	0	1
+18/02/2003	30/04/2003	24 Epenarra Close	213000	334	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+19/02/2003	13/03/2003	18 Epenarra Close	205000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/09/2003	15/09/2003	41 Elkedra Close	200000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/12/2003	NA	18/26 Springvale Drive *	192500	4379	Full transfer	NA	6/11/2003	2	1	NA	0	1
+15/09/2003	14/10/2003	23/28 Springvale Drive	190000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/08/2003	NA	9/30 Springvale Drive *	190000	186	Full transfer	NA	2/05/2003	3	1	1	0	1
+9/08/2003	17/11/2003	9/30 Springvale Drive	190000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/10/2003	17/12/2003	12/30 Springvale Drive	185000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/10/2003	1/12/2003	11/3 Bonrook Street	175000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/12/2003	3/02/2004	23/26 Springvale Drive	170000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/04/2003	27/05/2003	8/30 Springvale Drive	169000	4017	Full transfer	Multiple unit dwelling	21/03/2003	3	1	1	0	1
+2/05/2003	2/05/2003	163 Belconnen Way	162500	1090	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/07/2003	21/11/2003	11/4 Beetaloo Street	158000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/12/2003	5/02/2004	20/4 Beetaloo Street	158000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/02/2003	17/02/2003	17 Goodparla Street	156667	1163	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/05/2003	3/07/2003	19/153 Murranji Street	155000	5542	Full transfer	Multiple unit dwelling	3/04/2003	2	1	NA	0	1
+30/06/2003	3/10/2003	19/26 Springvale Drive	155000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/06/2003	25/08/2003	7/153 Murranji Street	155000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/04/2003	15/04/2004	21/28 Springvale Drive	154000	3934	Full transfer	Multiple unit dwelling	27/03/2003	2	1	NA	0	1
+30/05/2003	27/05/2004	2 Gorrie Close	150000	597	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+4/07/2003	7/08/2003	2/4 Beetaloo Street	150000	7773	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/03/2003	19/12/2003	23/8 Beetaloo Street	144000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/02/2003	25/03/2003	14/8 Beetaloo Street	143500	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/06/2003	4/08/2003	4/26 Springvale Drive	140000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/01/2003	5/02/2003	22/8 Beetaloo Street	139500	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/03/2003	1/05/2003	7/28 Springvale Drive	130000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/09/2003	15/10/2003	8/121 Hawker Place	125000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+24/01/2003	6/03/2003	16/153 Murranji Street	125000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/04/2003	12/09/2003	21/26 Springvale Drive	112000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/04/2003	12/09/2003	22/26 Springvale Drive	112000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/03/2003	8/04/2003	12/121 Hawker Place	105000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+27/06/2003	19/08/2003	5/26 Springvale Drive	105000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/07/2003	19/12/2003	18/121 Hawker Place	97500	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+10/07/2003	19/12/2003	4/121 Hawker Place	97500	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+12/12/2003	12/12/2003	30 Springvale Drive	81950	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/07/2003	18/08/2003	4/72 Hawker Place	57802	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+12/12/2003	20/05/2004	8 Marqua Place	NA	464	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/10/2003	15/10/2003	13 Epenarra Close	NA	316	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+3/01/2003	3/01/2003	11 Tanumbirini Street	NA	1416	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/03/2003	28/03/2003	32 Moroak Street	NA	1163	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/08/2003	5/05/2004	6/8 Walhallow Street	NA	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/12/2003	17/12/2003	26 Woolner Circuit	NA	1159	Full transfer	Single residential dwelling...	NA	NA	NA	NA	NA	NA
+10/02/2003	24/11/2003	49 Elkedra Close	NA	316	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/06/2003	NA	Springvale Drive *	NA	NA	Full transfer	NA	14/05/2003	2	1	NA	0	1
+11/02/2003	11/02/2003	7/42 Jinka Street	NA	6092	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/10/2003	27/04/2004	9 Marqua Place	NA	386	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+8/02/2003	9/05/2003	55 Ambalindum Street	NA	2880	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/02/2003	NA	39 Elkedra Place *	NA	NA	Full transfer	NA	16/01/2003	3	1	NA	1	NA
+15/10/2003	15/10/2003	18/32 Springvale Drive	NA	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/09/2003	19/01/2004	5/42 Jinka Street	NA	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/11/2003	29/11/2004	1 Woolner Circuit	NA	467	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+17/07/2003	17/07/2003	7 Tanumbirini Street	NA	1172	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/07/2003	NA	Beetaloo Street *	NA	0	Full transfer	NA	20/06/2003	2	1	NA	0	1
+1/08/2003	NA	58 Alroy Circuit *	NA	914	Full transfer	NA	3/07/2003	4	3	NA	0	2
+16/01/2003	16/01/2003	39 Elkedra Close	NA	311	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+28/10/2003	23/08/2004	1/10 Jinka Street	NA	7726	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/12/2002	22/04/2003	14 Marrakai Street	925000	2836	Full transfer	Single residential dwelling	27/09/2002	6	2	2	4	NA
+19/11/2002	11/02/2003	5 Mataranka Street	535000	980	Full transfer	Single residential dwelling	9/10/2002	5	2	1	2	NA
+23/03/2002	7/06/2002	14 Kurundi Place	530500	1807	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/12/2002	13/02/2003	24 Goodparla Street	500000	1093	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/11/2002	14/01/2003	15 Marrakai Street	490000	1371	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/08/2002	24/10/2002	27 Tanumbirini Street	485000	888	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/12/2002	10/03/2003	22 Alroy Circuit	475000	888	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/03/2002	21/05/2002	7 Dungowan Street	474000	1346	Full transfer	Single residential dwelling	6/03/2002	4	1	1	4	1
+10/12/2002	17/02/2003	29 Woolner Circuit	470000	1044	Full transfer	Single residential dwelling	23/10/2002	4	1	1	0	1
+11/06/2002	5/08/2002	18 Ambalindum Street	468000	1115	Full transfer	Single residential dwelling	27/02/2001	6	3	NA	2	NA
+26/09/2002	21/10/2002	16 Moroak Street	460000	1219	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/11/2002	3/01/2003	17 Erldunda Circuit	457000	911	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/06/2002	11/10/2002	2/13 Andado Place	450000	2189	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/11/2002	16/01/2003	15 Moroak Street	446000	1159	Full transfer	Single residential dwelling	3/10/2002	4	1	1	4	NA
+16/04/2002	7/06/2002	7 Shandon Place	437500	1135	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+18/12/2002	10/03/2003	15 Alroy Circuit	427000	790	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/10/2002	20/12/2002	7 Florina Place	425000	1454	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/11/2002	4/03/2003	30/1 Delamere Street	417500	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/11/2002	NA	30/5 Delamere Street *	417500	NA	Full transfer	NA	15/11/2002	3	1	1	1	NA
+20/03/2002	13/05/2002	46 Murranji Street	415000	1062	Full transfer	Single residential dwelling	20/01/2002	4	3	NA	2	2
+22/01/2002	4/03/2002	3 Dungowan Street	415000	1170	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/08/2002	11/10/2002	27 Marrakai Street	411000	1144	Full transfer	Single residential dwelling	19/07/2002	3	1	1	2	NA
+21/01/2002	27/03/2002	33 Woolner Circuit	408000	997	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/01/2002	20/02/2002	9 Mainoru Place	407500	1793	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/01/2002	1/03/2002	32 Mataranka Street	405000	1069	Full transfer	Single residential dwelling	26/10/2001	5	3	1	2	NA
+8/11/2002	29/11/2002	10/1 Delamere Street	400000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/11/2002	16/12/2002	22 Kulgera Street	400000	914	Full transfer	Single residential dwelling	4/10/2002	4	1	1	1	NA
+2/09/2002	11/10/2002	11/1 Delamere Street	399950	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/12/2002	7/03/2003	19 Mainoru Place	397500	1572	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/12/2002	10/03/2003	27 Alexandria Street	397000	1061	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/05/2002	20/06/2002	2/12 Andado Place	395000	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/06/2002	23/07/2002	4/12 Andado Place	394250	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/12/2002	4/03/2003	2 Kyabra Place	380000	1180	Full transfer	Single residential dwelling	31/10/2002	4	1	1	2	NA
+1/03/2002	27/03/2002	56 Woolner Circuit	376000	1204	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/10/2002	20/12/2002	31 Tanumbirini Street	375000	1059	Full transfer	Single residential dwelling	25/09/2002	4	1	1	2	NA
+24/08/2002	18/10/2002	3 Rosewood Place	370000	863	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/02/2002	27/02/2002	41 Tanumbirini Street	368000	1038	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/09/2002	28/11/2002	4 Andado Place	365000	1239	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/04/2002	17/06/2002	13 Goodparla Street	365000	1295	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+13/12/2002	12/02/2003	38 Woolner Circuit	359000	1075	Full transfer	Single residential dwelling	9/10/2002	3	1	1	0	2
+24/05/2002	26/06/2002	25 Elsey Street	350000	1017	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/08/2002	27/09/2002	1 Alroy Circuit	342500	878	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/07/2002	29/08/2002	1/13 Andado Place	332000	2189	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/08/2002	18/10/2002	22/1 Delamere Street	320000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/08/2002	9/10/2002	3/2 Undoolya Street	315000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/03/2002	27/05/2002	30 Mataranka Street	295000	952	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/10/2002	28/11/2002	9/2 Undoolya Street	294000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/07/2002	29/08/2002	1 Marqua Place	289950	431	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+21/05/2002	30/07/2002	76 Springvale Drive	285000	1163	Full transfer	Single residential dwelling	21/01/2002	4	NA	1	1	NA
+8/02/2002	7/03/2002	114 Murranji Street	280000	878	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/03/2002	3/05/2002	50 Erldunda Circuit	280000	1060	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+6/12/2002	10/01/2003	9/8 Bonrook Street	279000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/12/2002	13/01/2003	7/10 Jinka Street	265000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/05/2002	6/08/2002	163 Belconnen Way	255000	1090	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/12/2002	4/02/2003	132 Murranji Street	246000	322	Full transfer	Medium density dwelling	14/11/2002	2	1	1	1	NA
+8/11/2002	6/12/2002	30 Elkedra Close	235000	548	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+1/08/2002	17/09/2002	11/41 Jinka Street	230000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/11/2002	8/01/2003	108 Murranji Street	230000	777	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/08/2002	11/09/2002	29 Elkedra Close	230000	353	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+8/11/2002	6/12/2002	8/8 Walhallow Street	228000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/03/2002	9/04/2002	11 Marqua Place	222000	381	Full transfer	Medium density dwelling	13/06/2003	4	1	2	4	NA
+4/04/2002	10/05/2002	17/21 Jinka Street	209000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/03/2002	11/04/2002	4 Epenarra Close	207000	302	Full transfer	Medium density dwelling	12/02/2002	3	2	1	1	NA
+8/04/2002	14/05/2002	2/9 Jinka Street	200000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/07/2002	15/08/2002	14 Elkedra Close	200000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+9/05/2002	3/06/2002	18 Epenarra Close	196000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+20/03/2002	3/05/2002	7/9 Jinka Street	193000	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/05/2002	26/06/2002	11 Epenarra Close	185000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+19/03/2002	22/03/2002	3/121 Hawker Place	185000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+8/08/2002	10/09/2002	15 Gorrie Close	180000	279	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+29/01/2002	19/03/2002	7/21 Jinka Street	179500	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/01/2002	12/02/2002	18/21 Jinka Street	167750	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/07/2002	10/07/2002	92 Springvale Drive	165000	1778	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/01/2002	NA	Tanumbirini Street *	164000	NA	Full transfer	NA	24/10/2001	3	1	NA	1	NA
+18/01/2002	7/06/2002	152 Murranji Street	146000	307	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+11/10/2002	9/01/2003	17/30 Springvale Drive	143500	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/05/2002	3/07/2002	7/30 Springvale Drive	140000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/09/2002	21/10/2002	1/121 Hawker Place	138645	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+12/09/2002	21/10/2002	17/121 Hawker Place	138645	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+19/07/2002	27/09/2002	17/32 Springvale Drive	135000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/02/2002	27/03/2002	18/4 Beetaloo Street	130000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/06/2002	4/07/2002	15/8 Beetaloo Street	129000	5520	Full transfer	Multiple unit dwelling	28/05/2002	2	1	NA	0	1
+30/10/2002	19/11/2002	15/153 Murranji Street	127000	5542	Full transfer	Multiple unit dwelling	2/10/2002	2	NA	NA	0	1
+11/12/2002	7/01/2003	16/4 Beetaloo Street	126000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/06/2002	6/08/2002	18/4 Beetaloo Street	125000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/07/2002	3/10/2002	3/32 Springvale Drive	123000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/09/2002	11/10/2002	14/3 Bonrook Street	120950	3862	Full transfer	Multiple unit dwelling	5/06/2002	2	1	NA	0	1
+1/08/2002	24/10/2002	7/8 Beetaloo Street	120500	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/08/2002	21/10/2002	2/8 Beetaloo Street	120000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/08/2002	23/09/2002	6/3 Bonrook Street	120000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/05/2002	12/06/2002	16/30 Springvale Drive	119950	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/02/2002	21/05/2002	2/32 Springvale Drive	119000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/08/2002	26/08/2002	3/3 Bonrook Street	118500	3862	Full transfer	Multiple unit dwelling	5/07/2002	2	1	NA	0	1
+11/10/2002	12/12/2002	13/8 Beetaloo Street	118000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/09/2002	29/10/2002	19/8 Beetaloo Street	117500	5520	Full transfer	Multiple unit dwelling	15/08/2002	2	1	NA	0	1
+25/07/2002	16/08/2002	23/4 Beetaloo Street	116500	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/07/2002	11/12/2002	17/26 Springvale Drive	116000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/02/2002	11/04/2002	9/30 Springvale Drive	116000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/04/2002	14/05/2002	13/30 Springvale Drive	115000	4017	Full transfer	Multiple unit dwelling	8/02/2002	2	1	NA	0	1
+14/10/2002	30/12/2002	11/8 Beetaloo Street	115000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/11/2002	9/12/2002	6/4 Beetaloo Street	112000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/04/2002	24/05/2002	10/153 Murranji Street	109000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/04/2002	9/08/2002	14/4 Beetaloo Street	108000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/05/2002	20/06/2002	21/28 Springvale Drive	108000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/02/2002	7/03/2002	12/28 Springvale Drive	105000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/04/2002	13/05/2002	6/153 Murranji Street	102000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/02/2002	12/03/2002	19/30 Springvale Drive	101000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/03/2002	24/04/2002	11/153 Murranji Street	100000	5542	Full transfer	Multiple unit dwelling	20/12/2001	2	1	NA	0	1
+5/12/2002	30/12/2002	9/72 Hawker Place	100000	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+24/01/2002	12/03/2002	2/4 Beetaloo Street	100000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/02/2002	27/02/2002	31/4 Beetaloo Street	100000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/02/2002	13/05/2002	22/28 Springvale Drive	98000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/03/2002	26/04/2002	19/153 Murranji Street	97000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/03/2002	25/03/2002	11/30 Springvale Drive	97000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/02/2002	13/05/2002	21/28 Springvale Drive	93000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/01/2002	23/05/2002	8/8 Beetaloo Street	92000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/11/2002	8/01/2003	6/26 Springvale Drive	91000	4379	Full transfer	Multiple unit dwelling	8/11/2002	1	NA	NA	0	1
+13/09/2002	13/11/2002	20/26 Springvale Drive	90000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/11/2002	28/11/2002	150 Murranji Street	87500	287	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+16/09/2002	23/10/2002	7/72 Hawker Place	84000	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+16/09/2002	23/10/2002	8/72 Hawker Place	84000	447	Full transfer	Non retail commercial uses	NA	NA	NA	NA	NA	NA
+5/06/2002	19/08/2002	4 Elkedra Close	80000	320	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/10/2002	3/01/2003	14 Andado Place	31600	1808	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/03/2002	3/05/2002	53 Elkedra Close	NA	472	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+12/04/2002	19/07/2002	19 Woolner Circuit	NA	968	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/09/2002	NA	4 Andado *	NA	NA	Full transfer	NA	17/07/2002	4	1	1	2	NA
+24/05/2002	27/05/2002	30 Epenarra Close	NA	334	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+13/05/2002	13/01/2003	63 Ambalindum Street	NA	1227	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/08/2002	22/11/2002	3 Marqua Place	NA	390	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+7/02/2002	26/03/2002	26 Elsey Street	NA	1246	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/04/2002	16/08/2002	14 Walhallow Street	NA	327	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+14/11/2002	NA	6a Century Court/beetaloo Street *	NA	NA	Full transfer	NA	11/09/2002	2	1	NA	1	NA
+14/02/2002	10/12/2003	7/42 Jinka Street	NA	6092	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/10/2002	12/01/2005	11 Kulgera Street	NA	859	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+1/03/2002	14/06/2002	51 Alroy Circuit	NA	940	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+13/03/2002	16/07/2002	16 Tanumbirini Street	NA	1445	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/07/2002	28/11/2002	100 Murranji Street	NA	919	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/06/2002	12/12/2002	69 Erldunda Circuit	NA	963	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/08/2002	NA	1 Alroy *	NA	NA	Full transfer	NA	12/06/2002	4	1	1	2	NA
+14/10/2002	NA	NA *	NA	NA	Full transfer	NA	19/09/2002	2	1	NA	1	NA
+2/11/2001	12/02/2002	26 Marrakai Street	685000	3397	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/11/2001	8/03/2002	38 Elsey Street	605000	1884	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/10/2001	19/12/2001	32 Marrakai Street	560000	1649	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/12/2001	7/12/2001	12 Andado Place	480000	4834	Full transfer	Multi unit development (res...	NA	NA	NA	NA	NA	NA
+3/08/2001	13/09/2001	30 Murranji Street	440000	997	Full transfer	Single residential dwelling	25/10/2000	6	4	NA	3	NA
+9/03/2001	13/07/2001	24 Ambalindum Street	425000	1189	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/05/2001	23/07/2001	30 Goodparla Street	425000	1250	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/11/2001	11/02/2002	3/12 Andado Place	415000	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/09/2001	8/03/2002	32 Tanumbirini Street	407000	1425	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/12/2001	8/02/2002	44 Tanumbirini Street	406000	1317	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/11/2001	12/02/2002	1/12 Andado Place	400000	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/09/2001	1/11/2001	9 Moroak Street	395000	1184	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/01/2001	24/04/2001	26 Woolner Circuit	395000	1159	Full transfer	Single residential dwelling...	NA	NA	NA	NA	NA	NA
+12/10/2001	18/02/2002	5/12 Andado Place	395000	4834	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/08/2001	NA	Bonrook Street *	390000	NA	Full transfer	NA	1/08/2001	2	NA	NA	NA	NA
+30/05/2001	27/12/2001	11 Mainoru Place	372500	1515	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/04/2001	NA	Jinka Street *	360000	NA	Full transfer	NA	22/02/2001	3	NA	NA	NA	NA
+21/11/2001	12/02/2002	65 Erldunda Circuit	359000	790	Full transfer	Single residential dwelling	1/11/2001	4	1	1	NA	NA
+14/09/2001	25/10/2001	30/1 Delamere Street	350000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/06/2001	6/11/2001	10 Florina Place	349000	1643	Full transfer	Single residential dwelling	7/05/2001	4	2	NA	2	NA
+30/04/2001	26/06/2001	48 Ambalindum Street	346000	1729	Full transfer	Single residential dwelling	21/03/2001	4	1	1	2	NA
+17/12/2001	16/01/2002	54 Alroy Circuit	345000	914	Full transfer	Single residential dwelling	23/11/2001	3	1	1	2	NA
+30/04/2001	21/06/2001	27/1 Delamere Street	335000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/08/2001	5/10/2001	6/1 Delamere Street	330000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/03/2001	20/06/2001	24/1 Delamere Street	330000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/07/2001	19/10/2001	25/1 Delamere Street	330000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/07/2001	5/09/2001	19/1 Delamere Street	325000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/05/2001	31/08/2001	12/1 Delamere Street	325000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/04/2001	18/06/2001	52 Woolner Circuit	320000	1212	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/09/2001	11/10/2001	38 Woolner Circuit	320000	1075	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/02/2001	5/03/2001	56 Alroy Circuit	315000	914	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/01/2001	26/06/2001	18/1 Delamere Street	312000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/07/2001	11/09/2001	6 Woolner Circuit	310000	1127	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/05/2001	3/07/2001	3 Erldunda Circuit	300000	984	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/09/2001	19/12/2001	10 Moroak Street	300000	1078	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/05/2001	17/07/2001	8/1 Delamere Street	298000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/06/2001	2/08/2001	5/1 Delamere Street	298000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/05/2001	16/07/2001	3/1 Delamere Street	295000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/06/2001	17/07/2001	10/1 Delamere Street	295000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/06/2001	25/09/2001	22/1 Delamere Street	295000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/04/2001	18/05/2001	83 Erldunda Circuit	295000	1288	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+31/01/2001	20/03/2001	22 Alexandria Street	291000	828	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/09/2001	NA	Elkedra Street *	285000	NA	Full transfer	NA	12/06/2001	4	1	1	2	NA
+24/04/2001	19/06/2001	13 Alroy Circuit	285000	834	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/01/2001	29/06/2001	29/1 Delamere Street	280000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/07/2001	31/07/2001	17 Elsey Street	279950	850	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/11/2001	12/12/2001	91 Erldunda Circuit	275000	990	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/04/2001	21/06/2001	13/1 Delamere Street	275000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+6/09/2001	10/10/2001	30 Erldunda Circuit	275000	743	Full transfer	Single residential dwelling	9/08/2001	4	NA	1	NA	NA
+22/05/2001	17/07/2001	7/42 Jinka Street	260000	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/01/2001	26/06/2001	9/1 Delamere Street	260000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/08/2001	10/01/2002	11/1 Delamere Street	260000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/02/2001	7/03/2001	3 Andado Place	247500	1341	Full transfer	Single residential dwelling	7/10/2000	5	1	1	0	1
+12/04/2001	NA	Springvale Drive *	235000	NA	Full transfer	NA	2/03/2001	4	1	NA	1	NA
+15/02/2001	18/04/2001	11 Mataranka Street	232000	1108	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/05/2001	NA	Alexandria Street *	222500	NA	Full transfer	NA	15/03/2001	3	1	NA	1	NA
+8/03/2001	30/03/2001	5 Kyabra Place	218000	968	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/12/2001	30/01/2002	130 Murranji Street	209950	332	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+14/08/2001	24/09/2001	2 Epenarra Close	205000	483	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+7/05/2001	25/06/2001	1/9 Jinka Street	187500	3362	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+3/05/2001	6/06/2001	9/8 Bonrook Street	185000	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/06/2001	31/07/2001	3 Mataranka Street	180000	1001	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+20/11/2001	19/12/2001	5 Elkedra Close	170000	303	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+1/10/2001	13/12/2001	3/1 Limbunya Street	170000	2159	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/04/2001	NA	Jinka Street *	169000	NA	Full transfer	NA	14/02/2001	3	1	NA	0	2
+14/08/2001	11/09/2001	48 Epenarra Close	165000	394	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+6/04/2001	19/06/2001	144 Murranji Street	164950	317	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+22/05/2001	13/09/2001	14/121 Hawker Place	162000	3750	Full transfer	"Office,professional suite"	NA	NA	NA	NA	NA	NA
+20/08/2001	13/09/2001	13/41 Jinka Street	162000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/10/2001	9/11/2001	7 Epenarra Close	161250	316	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+18/04/2001	31/07/2001	13 Alexandria Street	155000	804	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+29/08/2001	25/09/2001	14/21 Jinka Street	155000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/07/2001	28/08/2001	5/8 Walhallow Street	155000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/09/2001	27/12/2001	6/10 Jinka Street	150000	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/02/2001	8/03/2001	29 Elkedra Close	149000	353	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+14/02/2001	4/05/2001	15/41 Jinka Street	148000	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/04/2001	16/05/2001	16 Elkedra Close	145000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/01/2001	30/04/2001	13 Epenarra Close	144000	316	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+22/03/2001	18/06/2001	4 Elkedra Close	141000	320	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/02/2001	21/02/2001	150 Murranji Street	132500	287	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/08/2001	20/12/2001	10/21 Jinka Street	131000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/11/2001	18/01/2002	17/28 Springvale Drive	117000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/04/2001	11/10/2001	24/4 Beetaloo Street	114000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/06/2001	9/08/2001	2/30 Springvale Drive	107000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+5/10/2001	8/02/2002	15/32 Springvale Drive	106000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/10/2001	22/11/2001	16/8 Beetaloo Street	105000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/11/2001	21/05/2002	23/153 Murranji Street	104905	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/10/2001	14/12/2001	18/26 Springvale Drive	104500	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+28/08/2001	28/08/2001	18/30 Springvale Drive	100000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/05/2001	12/06/2001	16/32 Springvale Drive	99950	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/12/2001	12/02/2002	25/4 Beetaloo Street	99000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/07/2001	9/04/2002	21/4 Beetaloo Street	97990	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/11/2001	15/01/2002	16/3 Bonrook Street	97000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/12/2001	19/02/2002	24/8 Beetaloo Street	97000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+19/12/2001	24/01/2002	12/3 Bonrook Street	97000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/11/2001	14/01/2002	12/8 Beetaloo Street	95000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/11/2001	30/11/2001	13/153 Murranji Street	95000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+24/08/2001	10/10/2001	17/4 Beetaloo Street	93500	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/08/2001	10/10/2001	20/32 Springvale Drive	92500	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/07/2001	13/07/2001	24/28 Springvale Drive	89900	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/11/2001	19/12/2001	9/153 Murranji Street	89500	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+16/03/2001	23/04/2001	9/32 Springvale Drive	89500	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/06/2001	23/07/2001	18/8 Beetaloo Street	83300	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/04/2001	21/06/2001	24/26 Springvale Drive	82000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/06/2001	27/06/2001	18/26 Springvale Drive	80000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/03/2001	1/05/2001	3/153 Murranji Street	80000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/04/2001	14/05/2001	20/4 Beetaloo Street	79950	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/04/2001	18/05/2001	4/30 Springvale Drive	78500	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/09/2001	25/10/2001	10/153 Murranji Street	74000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/08/2001	10/09/2001	3/26 Springvale Drive	69000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/03/2001	15/05/2001	4/26 Springvale Drive	68000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/01/2001	26/02/2001	6/26 Springvale Drive	60000	4379	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/01/2001	26/02/2001	21/26 Springvale Drive	60000	4379	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/01/2001	26/02/2001	22/26 Springvale Drive	60000	4379	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/01/2001	26/02/2001	5/26 Springvale Drive	60000	4379	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/02/2001	19/03/2001	13/26 Springvale Drive	59000	4379	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/11/2001	12/12/2001	7/4 Beetaloo Street	NA	7773	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/04/2001	14/08/2002	7/10 Jinka Street	NA	7726	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/11/2001	15/11/2001	3 Marqua Place	NA	390	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+24/09/2001	24/09/2001	13 Kurundi Place	NA	1442	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/06/2001	15/03/2002	94 Springvale Drive	NA	2181	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/01/2001	12/01/2001	87 Erldunda Circuit	NA	1105	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/06/2001	5/09/2001	6/121 Hawker Place	NA	3750	Partial transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+1/03/2001	1/03/2001	2 Elkedra Close	NA	490	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+12/04/2001	8/08/2002	10 Epenarra Close	NA	317	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+28/08/2001	28/08/2001	17/30 Springvale Drive	NA	4017	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/10/2001	16/01/2002	24 Elsey Street	NA	1225	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/06/2001	5/09/2001	62 Springvale Drive	NA	923	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/11/2001	6/02/2002	33 Alexandria Street	NA	831	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/05/2001	14/05/2001	13 Mataranka Street	NA	943	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/07/2001	10/10/2001	16 Elsey Street	NA	1718	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/11/2001	3/05/2002	25 Ambalindum Street	NA	1280	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/10/2000	20/08/2001	10 Kurundi Place	544000	2186	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/01/2000	22/02/2000	2 Marrakai Street	450000	2038	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/10/2000	21/05/2001	17 Marrakai Street	440000	1368	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+6/03/2000	2/05/2000	51 Woolner Circuit	440000	1997	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/11/2000	29/12/2000	42 Woolner Circuit	430000	1129	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/10/2000	15/02/2001	17 Goodparla Street	425000	1163	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/07/2000	20/09/2000	5 Rosewood Place	362500	826	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+19/04/2000	15/05/2000	3 Alroy Circuit	355000	842	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/10/2000	13/12/2000	9 Elsey Street	355000	976	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+6/06/2000	13/07/2000	16 Woolner Circuit	340000	1184	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/12/2000	30/04/2001	77 Erldunda Circuit	335000	1121	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/03/2000	1/05/2000	16 Tanumbirini Street	335000	1445	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/06/2000	6/09/2000	28 Woolner Circuit	333000	1159	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/08/2000	29/09/2000	102 Springvale Drive	333000	2011	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/10/2000	16/01/2001	19 Goodparla Street	333000	1152	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+13/10/2000	20/06/2001	2/1 Delamere Street	320000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/06/2000	12/07/2000	9 Murranji Street	320000	1120	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+26/10/2000	14/12/2000	21 Alexandria Street	320000	949	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/09/2000	21/06/2001	14/1 Delamere Street	320000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/12/2000	18/01/2001	13 Andado Place	320000	2189	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+4/10/2000	26/06/2001	23/1 Delamere Street	320000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/09/2000	26/06/2001	7/1 Delamere Street	312000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/11/2000	3/07/2001	26/1 Delamere Street	312000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+29/09/2000	21/06/2001	30/1 Delamere Street	311200	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/03/2000	25/04/2000	21 Murranji Street	298000	1087	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/11/2000	5/03/2001	20 Woolner Circuit	298000	1184	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+3/10/2000	3/10/2000	9 Moroak Street	295000	1184	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/08/2000	21/09/2000	12 Goodparla Street	295000	1146	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/11/2000	17/01/2001	8 Andado Place	290000	1800	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/05/2000	7/08/2000	18 Murranji Street	290000	1158	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/10/2000	NA	Elkedra Close *	290000	NA	Full transfer	NA	21/09/2000	4	NA	NA	NA	NA
+25/10/2000	5/12/2001	20/1 Delamere Street	287620	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/10/2000	21/06/2001	15/1 Delamere Street	285000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/10/2000	27/06/2001	17/1 Delamere Street	285000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+13/11/2000	12/12/2000	28 Alroy Circuit	278000	824	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+25/09/2000	26/06/2001	1/1 Delamere Street	277000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+9/02/2000	22/02/2000	78 Springvale Drive	275000	1097	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+21/07/2000	8/09/2000	15 Alroy Circuit	275000	790	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/09/2000	21/06/2001	13/1 Delamere Street	275000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/05/2000	27/06/2000	23 Erldunda Circuit	270000	924	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/11/2000	11/12/2000	20 Alroy Circuit	269950	891	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/10/2000	21/06/2001	21/1 Delamere Street	260000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+15/11/2000	29/06/2001	4/1 Delamere Street	260000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/10/2000	27/07/2001	28/1 Delamere Street	259950	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/02/2000	13/03/2000	4 Andado Place	258000	1239	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/10/2000	20/07/2001	16/1 Delamere Street	255000	18341	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/03/2000	1/05/2000	19 Mataranka Street	253000	908	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+14/03/2000	7/07/2000	8 Elsey Street	247500	1614	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+5/09/2000	6/10/2000	104 Murranji Street	246500	880	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+12/10/2000	17/11/2000	24 Alroy Circuit	245000	830	Full transfer	Single residential dwelling	9/09/2000	NA	NA	NA	NA	NA
+7/04/2000	7/06/2000	8 Alroy Circuit	245000	831	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+15/02/2000	16/03/2000	49 Erldunda Circuit	243500	859	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+23/03/2000	25/04/2000	12 Kulgera Street	240000	780	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/02/2000	19/06/2000	114 Murranji Street	239950	878	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+10/10/2000	25/06/2001	3/42 Jinka Street	239950	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/05/2000	19/05/2000	29 Tanumbirini Street	236000	1000	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+7/08/2000	1/09/2000	2 Mataranka Street	227500	819	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/02/2000	28/02/2000	94 Erldunda Circuit	210000	1312	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/09/2000	8/11/2000	4/42 Jinka Street	210000	6092	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+11/04/2000	22/06/2000	37 Alroy Circuit	205000	802	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+16/03/2000	10/04/2000	108 Murranji Street	200000	777	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+9/08/2000	14/09/2000	70 Springvale Drive	187000	1176	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/08/2000	22/09/2000	4/2 Undoolya Street	185500	5017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/12/2000	18/01/2001	5 Marqua Place	185000	403	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+10/10/2000	NA	Woolner Circuit *	184000	NA	Full transfer	NA	12/07/2000	4	NA	2	NA	NA
+16/06/2000	11/08/2000	2 Marqua Place	168000	469	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+26/10/2000	29/12/2000	27 Gorrie Close	164000	357	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+19/10/2000	NA	Bonrook Street *	162000	NA	Full transfer	NA	9/09/2000	3	NA	NA	NA	NA
+4/10/2000	6/02/2001	13 Elkedra Close	159150	283	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+15/06/2000	27/07/2000	3/1 Limbunya Street	158000	2159	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/12/2000	1/03/2001	2 Elkedra Close	145000	490	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/03/2000	10/05/2000	2 Elkedra Close	144000	490	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+24/11/2000	15/01/2001	7/8 Walhallow Street	143000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+7/04/2000	5/05/2000	18 Epenarra Close	135500	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+10/03/2000	12/04/2000	8/8 Walhallow Street	135000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/08/2000	26/09/2000	14/8 Walhallow Street	135000	8574	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+31/10/2000	8/12/2000	20 Epenarra Close	134000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+28/02/2000	28/02/2000	47 Elkedra Close	134000	296	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+29/09/2000	23/10/2000	25/153 Murranji Street	133000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/07/2000	25/08/2000	11 Epenarra Close	132000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+3/02/2000	28/02/2000	156 Murranji Street	132000	484	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/03/2000	3/05/2000	12/41 Jinka Street	129950	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+25/01/2000	14/02/2000	2/21 Jinka Street	118000	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/01/2000	28/02/2000	12 Elkedra Close	115000	297	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+30/03/2000	11/05/2000	4/121 Hawker Place	110000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+20/06/2000	18/07/2000	8/41 Jinka Street	96666	10583	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/02/2000	7/03/2000	18/32 Springvale Drive	85000	4247	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/09/2000	9/10/2000	8/28 Springvale Drive	84950	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/08/2000	27/09/2000	10/28 Springvale Drive	83500	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+22/12/2000	30/01/2001	23/30 Springvale Drive	83000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/07/2000	10/08/2000	1/28 Springvale Drive	80500	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+30/03/2000	11/05/2000	18/121 Hawker Place	80000	3750	Full transfer	Consulting rooms	NA	NA	NA	NA	NA	NA
+23/03/2000	15/05/2000	9/28 Springvale Drive	80000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+20/11/2000	8/12/2000	10/3 Bonrook Street	79950	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/09/2000	6/11/2000	3/4 Beetaloo Street	78000	7773	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+18/08/2000	28/09/2000	9/8 Beetaloo Street	77000	5520	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/07/2000	18/08/2000	5/3 Bonrook Street	77000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+23/06/2000	8/08/2000	9/3 Bonrook Street	76500	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+27/03/2000	26/04/2000	3/3 Bonrook Street	74000	3862	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+17/03/2000	27/04/2000	23/153 Murranji Street	73500	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/10/2000	9/11/2000	12/153 Murranji Street	72000	5542	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/08/2000	29/09/2000	12/28 Springvale Drive	70000	3934	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+21/05/2000	21/06/2000	10/30 Springvale Drive	60000	4017	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+10/03/2000	10/03/2000	126 Murranji Street	60000	323	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+9/06/2000	9/06/2000	24 Epenarra Close	38334	334	Partial transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+1/08/2000	1/08/2000	15/4 Beetaloo Street	35000	7773	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+14/08/2000	21/08/2008	4 Shandon Place	NA	840	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+30/05/2000	3/10/2000	163 Belconnen Way	NA	1090	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/10/2000	16/01/2001	13 Elkedra Close	NA	283	Full transfer	Medium density dwelling	NA	NA	NA	NA	NA	NA
+17/04/2000	20/06/2000	2 Murranji Street	NA	1047	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+24/10/2000	24/10/2000	31 Ambalindum Street	NA	1326	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+28/09/2000	28/09/2000	3/3 Jinka Street	NA	3531	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+12/03/2000	24/07/2000	2/10 Jinka Street	NA	7726	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+8/03/2000	8/12/2004	49 Tanumbirini Street	NA	1007	Full transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+8/03/2000	30/06/2000	23/26 Springvale Drive	NA	4379	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+26/10/2000	26/10/2000	22/4 Beetaloo Street	NA	7773	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+2/01/2000	16/08/2000	6 Woolner Circuit	NA	1127	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+11/12/2000	11/12/2000	31 Marrakai Street	NA	1431	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/12/2000	4/09/2001	8/27 Jinka Street	NA	6071	Partial transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+4/12/2000	28/08/2001	14/21 Jinka Street	NA	10221	Full transfer	Multiple unit dwelling	NA	NA	NA	NA	NA	NA
+1/06/2000	1/06/2000	16 Kulgera Street	NA	825	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+2/02/2000	2/02/2000	49 Erldunda Circuit	NA	859	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+31/05/2000	31/05/2000	16 Kulgera Street	NA	825	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+27/10/2000	14/11/2000	19 Mainoru Place	NA	1572	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA
+22/06/2000	22/06/2000	102 Springvale Drive	NA	2011	Partial transfer	Single residential dwelling	NA	NA	NA	NA	NA	NA

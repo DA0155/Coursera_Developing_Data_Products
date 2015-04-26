@@ -1,0 +1,16 @@
+{
+    "contents" : "### Welcome to the house price Toolbox\n\nThis application is based on residential house price data for the suburb of Hawker (postcode 2614) in the Australian Capital Territory, Australia.  The application supports some basic exploration of the data and will also provide a price prediction using a linear model based on the lot size (in square metres), the number of bedrooms, the number of bathrooms, and the number of car parking spaces.\n\nThe dataset has been downloaded from the [All Homes](http://www.allhomes.com.au/ah/act/property-research/hawker/121457010) web site and converted to csv format suitable for loading into this application. Full description of the processing workflow is available on [RPubs](http://rpubs.com/DA0155/18294).\n\nSource code is available on the [GitHub](http://github.com/DA0155/Coursera_Developing_Data_Products).\n\n",
+    "created" : 1430037998728.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1997276298",
+    "id" : "CAEA004",
+    "lastKnownWriteTime" : 1430052017,
+    "path" : "D:/Users/David/Documents/R/House_Prices/include.md",
+    "project_path" : "include.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}

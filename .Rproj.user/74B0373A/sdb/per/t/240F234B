@@ -1,0 +1,17 @@
+{
+    "contents" : "library(shiny)\n\n# Plotting\nlibrary(ggplot2)\n\n\n# Required by includeMarkdown\nlibrary(markdown)\n\n# Load data\ndataset <- read.csv(\"data/HousePricesHawker.csv\", header = TRUE, na.strings = \"NA\")\ndataset <- subset(dataset, grepl(\"*Residential*\", dataset$Purpose, ignore.case = TRUE))\n\n# Data Conversions\ndataset$Contract.Date <- as.Date(dataset$Contract.Date , \"%d/%m/%Y\")\ndataset$Transaction.Date <- as.Date(dataset$Transaction.Date , \"%d/%m/%Y\")\ndataset$Advertise.Date <- as.Date(dataset$Advertise.Date , \"%d/%m/%Y\")\ndataset$Contract.Year <- as.factor(format(dataset$Contract.Date, \"%Y\"))\n\n\n# Prepare the model\nset.seed(33833)\nmodel <- lm(Price ~ Bed.Num + Block.Size.m2, data = dataset) \n\n# Shiny server \nshinyServer(\nfunction(input, output, session) {\n  \n  # Button click event for Predict\n  datainput  <- eventReactive(input$btnRunPredict,{\n    Bed.Num <- as.numeric(input$b)\n    Block.Size.m2 <- as.numeric(input$l)\n    \n    data.frame(Bed.Num = Bed.Num,\n               Block.Size.m2 = Block.Size.m2)\n  })\n  \n  # Data Exploration tab\n  output$plot <- renderPlot({\n    p <- ggplot(dataset, aes_string(x=input$x, y=input$y)) + geom_point()\n    print(p)\n  }, height=700)\n  \n  # Prediction tab\n  output$predict <- renderPrint({\n    predict(model, newdata = datainput())\n  })\n  \n}\n)",
+    "created" : 1430023481380.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1877174405",
+    "id" : "240F234B",
+    "lastKnownWriteTime" : 1430052061,
+    "path" : "D:/Users/David/Documents/R/House_Prices/Server.R",
+    "project_path" : "Server.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
